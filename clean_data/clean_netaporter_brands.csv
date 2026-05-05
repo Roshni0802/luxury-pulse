@@ -1,0 +1,925 @@
+brand,platform,avg_price_usd,min_price_usd,max_price_usd,product_count
+Vacheron Constantin,Mr Porter,105698.53,50257.6,211480.0,3
+Bovet,Mr Porter,100453.0,88946.0,111960.0,2
+Gerald Charles,Mr Porter,61624.03,21160.44,197298.4,10
+L’Épée 1839,Mr Porter,47763.38,46370.1,50549.94,6
+Jacob & Co.,Mr Porter,42829.14,27368.0,85836.0,7
+Ressence,Mr Porter,35765.0,18660.0,60707.2,8
+Buccellati,Mr Porter,30422.02,398.08,40430.0,4
+H. Moser & Cie.,Mr Porter,30042.6,29980.4,30104.8,2
+Jaeger-Lecoultre,Mr Porter,27561.51,12813.2,78994.0,9
+Piaget,Mr Porter,18062.88,14306.0,23760.4,5
+Chopard,Mr Porter,16815.38,432.91,65807.6,27
+Carl F. Bucherer,Mr Porter,16503.73,10076.4,28487.6,3
+Cartier,Mr Porter,15976.19,5846.8,41425.2,27
+Ulysse Nardin,Mr Porter,15705.5,8708.0,30851.2,12
+Panerai,Mr Porter,14243.8,9703.2,36573.6,24
+Iwc Schaffhausen,Mr Porter,13140.57,5598.0,44659.6,38
+Hermès Timepieces,Mr Porter,12705.55,6873.1,30757.9,13
+Alexandra Llewellyn,Net-a-Porter,11320.4,11320.4,11320.4,1
+Breitling,Mr Porter,9613.01,5262.12,12023.26,6
+Bremont,Mr Porter,8135.76,5308.15,11189.78,9
+Naeem Khan,Net-a-Porter,7582.18,3725.78,11189.78,11
+Bell & Ross,Mr Porter,7038.61,2985.6,28114.4,41
+Danielle Frankel,Net-a-Porter,6773.58,3669.8,12427.56,12
+Bamford Watch Department,Mr Porter,6648.68,1903.32,29813.7,10
+Frederique Constant,Mr Porter,6345.47,2221.78,12520.86,7
+Oscar De La Renta,Net-a-Porter,5695.74,1604.76,12427.56,70
+Silvia Furmanovich,Net-a-Porter,5473.6,5473.6,5473.6,1
+Jenny Packham,Net-a-Porter,5299.44,4503.28,6338.18,22
+Miss Sohee,Net-a-Porter,5260.56,1368.4,9081.2,16
+Valextra,Net-a-Porter,5181.26,4951.12,5411.4,2
+Alexandre Vauthier,Net-a-Porter,5036.13,3153.54,8714.22,3
+Charles Simon,Mr Porter,4812.58,485.16,10561.56,22
+Kingsman X Tag Heuer,Mr Porter,4540.6,4540.6,4540.6,1
+Elie Saab,Net-a-Porter,4540.35,2643.5,6786.02,15
+Baume & Mercier,Mr Porter,4448.3,2363.6,6792.24,31
+Andrew Gn,Net-a-Porter,4432.23,2537.76,9317.56,26
+Judith Leiber Couture,Net-a-Porter,4359.44,615.78,7457.78,32
+Valentino Garavani,Net-a-Porter,4241.9,360.76,26124.0,430
+Massena Lab,Mr Porter,4210.94,1984.18,6164.02,4
+Nomos Glashütte,Mr Porter,4159.83,2052.6,5971.2,23
+Jason Wu Collection,Net-a-Porter,4102.09,1610.98,10318.98,20
+Oris,Mr Porter,3970.89,2823.88,8235.28,32
+Lanvin,Net-a-Porter,3952.09,1977.96,5610.44,13
+Métier,Net-a-Porter,3916.38,1430.6,6033.4,28
+Huishan Zhang,Net-a-Porter,3909.68,1480.36,6450.14,30
+Brunello Cucinelli,Net-a-Porter,3807.81,410.52,20526.0,180
+Zegna X The Elder Statesman,Mr Porter,3749.8,186.6,11507.0,36
+Carolina Herrera,Net-a-Porter,3745.17,1231.56,8484.08,17
+Kiton,Mr Porter,3667.02,709.08,8857.28,21
+Brioni,Net-a-Porter,3619.0,771.28,10200.8,18
+Balmain,Net-a-Porter,3574.88,435.4,9952.0,100
+Maticevski,Net-a-Porter,3516.63,1940.64,5678.86,8
+Alanui,Net-a-Porter,3473.87,858.36,6182.68,10
+Ralph Lauren Collection,Net-a-Porter,3471.07,858.36,8446.76,61
+Bottega Veneta,Net-a-Porter,3408.65,311.0,13062.0,413
+Loro Piana,Net-a-Porter,3373.43,186.6,13932.8,329
+Erdem,Net-a-Porter,3301.99,385.64,17322.7,90
+Tom Ford,Net-a-Porter,3286.87,292.34,7439.12,101
+Utzon,Net-a-Porter,3159.99,1867.24,4345.29,11
+Mackage,Net-a-Porter,3127.42,1679.4,4963.56,5
+Fforme,Net-a-Porter,3109.41,1231.56,6207.56,21
+Reem Acra,Net-a-Porter,3079.73,2232.98,4098.98,15
+Markarian,Net-a-Porter,3038.88,1610.98,4845.38,23
+Alaïa,Net-a-Porter,3023.95,534.92,10598.88,338
+Yves Salomon,Net-a-Porter,2987.84,211.48,6450.14,25
+Serapian,Net-a-Porter,2987.47,1934.42,4167.4,10
+Gucci For Net-A-Porter,Net-a-Porter,2985.6,1617.2,4354.0,2
+Globe-Trotter,Mr Porter,2980.94,1362.18,5529.58,20
+Alexander Mcqueen,Net-a-Porter,2968.32,335.88,10200.8,301
+Ralph Lauren,Net-a-Porter,2949.11,1990.4,3980.8,9
+Yves Salomon,Mr Porter,2899.14,1399.5,4478.4,10
+Alanui,Mr Porter,2884.17,118.18,4938.68,13
+Sandra Mansour,Net-a-Porter,2878.62,920.56,4254.48,5
+Dolce And Gabbana,Net-a-Porter,2735.25,247.56,8701.78,153
+Vetements,Net-a-Porter,2713.48,1971.74,4204.72,4
+Halfpenny London,Net-a-Porter,2670.71,1561.22,3595.16,8
+Ferragamo,Net-a-Porter,2665.62,559.8,11196.0,117
+Gabriela Hearst,Net-a-Porter,2651.44,485.16,17416.0,122
+Talbot Runhof,Net-a-Porter,2651.26,1382.08,3725.78,17
+Yves Saint Laurent,Net-a-Porter,2641.62,286.12,14928.0,796
+God'S True Cashmere,Mr Porter,2631.06,2463.12,2799.0,2
+Cartier Eyewear,Mr Porter,2630.37,1175.58,13739.98,18
+Brandon Maxwell,Net-a-Porter,2613.96,1113.38,3725.78,16
+Pineider,Mr Porter,2587.52,2587.52,2587.52,1
+Bottega Veneta,Mr Porter,2583.42,311.0,14928.0,255
+Brunello Cucinelli,Mr Porter,2582.51,298.56,14921.78,459
+Vita Kin,Net-a-Porter,2571.58,1679.4,2955.74,16
+Rasario,Net-a-Porter,2561.67,603.34,6711.38,18
+The Row,Net-a-Porter,2538.58,273.68,16047.6,462
+Etro,Net-a-Porter,2534.71,335.88,8297.48,106
+Emilia Wickstead,Net-a-Porter,2484.05,933.0,7827.25,67
+David Koma,Net-a-Porter,2481.23,1144.48,4210.94,34
+Chloé,Net-a-Porter,2470.07,230.14,11059.16,231
+Tom Ford Timepieces,Mr Porter,2463.12,1237.78,4074.1,8
+Alex Perry,Net-a-Porter,2462.57,1181.8,3980.8,45
+Umit Benan B+,Mr Porter,2450.25,746.4,8813.74,29
+Michael Kors Collection,Net-a-Porter,2394.7,740.18,6580.76,11
+Tom Ford,Mr Porter,2384.32,68.42,22329.8,589
+Sasuphi,Net-a-Porter,2345.42,1156.92,4789.4,13
+Gucci,Net-a-Porter,2344.57,273.68,11071.6,708
+Nour Hammour,Net-a-Porter,2344.25,1841.12,3483.2,9
+Roksanda,Net-a-Porter,2337.55,684.2,4266.92,32
+Safiyaa,Net-a-Porter,2299.74,690.42,6960.18,45
+Adam Lippes,Net-a-Porter,2295.18,982.76,4092.76,20
+Partow,Net-a-Porter,2266.57,1237.78,3725.78,15
+Christopher John Rogers,Net-a-Porter,2265.95,988.98,6873.1,40
+Halpern,Net-a-Porter,2259.17,1244.0,4223.38,19
+Gabriela Hearst,Mr Porter,2254.59,733.96,6331.96,19
+Givenchy,Net-a-Porter,2252.07,360.76,12066.8,115
+Purdey,Net-a-Porter,2251.93,217.7,5685.08,30
+Readymade,Mr Porter,2250.91,68.42,5374.08,17
+Junghans,Mr Porter,2232.15,1328.59,2861.2,3
+Berluti,Mr Porter,2226.48,410.52,10574.0,112
+Brioni,Mr Porter,2225.56,436.64,9454.4,53
+Rodarte,Net-a-Porter,2220.95,1200.46,4148.74,15
+The Row,Mr Porter,2211.56,435.4,9330.0,117
+Sergio Hudson,Net-a-Porter,2209.66,976.54,3588.94,16
+Balmain,Mr Porter,2208.54,559.8,6966.4,42
+Balenciaga,Net-a-Porter,2203.1,155.5,9081.2,371
+Loro Piana,Mr Porter,2202.66,155.5,15301.2,637
+Olympia Le-Tan,Net-a-Porter,2169.24,1477.87,2755.46,21
+Celine Homme,Mr Porter,2161.57,155.5,27243.6,441
+Rime Arodaky,Net-a-Porter,2133.46,1355.96,4839.16,14
+Montblanc,Mr Porter,2131.26,55.98,12191.2,102
+The Elder Statesman,Mr Porter,2111.74,242.58,4839.16,59
+Khaite,Net-a-Porter,2102.23,348.32,14928.0,238
+Ralph Lauren Purple Label,Mr Porter,2094.58,230.14,7942.94,40
+Costarellos,Net-a-Porter,2082.04,597.12,3700.9,15
+Semsem,Net-a-Porter,2079.04,1555.0,2799.0,8
+Versace,Net-a-Porter,2076.22,93.3,18193.5,148
+Alessandra Rich,Net-a-Porter,2074.07,391.86,5983.64,82
+Ann Demeulemeester,Net-a-Porter,2042.58,447.84,3843.96,18
+Ashish,Net-a-Porter,2036.98,1262.66,3792.96,9
+Fpm Milano,Mr Porter,2022.37,1010.13,2830.1,10
+Agnona,Mr Porter,2013.54,597.12,5298.2,15
+Giorgio Armani,Mr Porter,2006.09,653.1,7401.8,23
+John Lobb,Mr Porter,1989.16,236.36,2923.4,20
+Savette,Net-a-Porter,1981.51,1107.16,2674.6,14
+Rick Owens,Net-a-Porter,1948.19,217.7,5834.36,70
+Veronica De Piante,Net-a-Porter,1934.42,1237.78,3476.98,10
+Wolf,Mr Porter,1929.01,466.5,4564.24,17
+16Arlington,Net-a-Porter,1925.85,354.54,9771.62,63
+René Caovilla,Net-a-Porter,1923.95,1088.5,2376.04,29
+Scatola Del Tempo,Mr Porter,1922.94,547.36,6966.4,13
+Loewe,Net-a-Porter,1918.36,360.76,11320.4,328
+Yves Saint Laurent,Mr Porter,1907.79,304.78,12440.0,433
+Burberry,Net-a-Porter,1903.09,230.14,7339.6,246
+Clio Peppiatt,Net-a-Porter,1898.39,322.2,5019.54,30
+Liberowe,Net-a-Porter,1880.77,845.92,3732.0,16
+Stella McCartney,Net-a-Porter,1876.45,404.3,6842.0,192
+Greg Lauren,Mr Porter,1875.57,404.3,3576.5,13
+Zegna,Mr Porter,1875.24,68.42,11183.56,213
+Ienki Ienki,Net-a-Porter,1874.33,1409.45,2209.34,10
+Vetements,Mr Porter,1863.72,696.64,6804.68,30
+Altuzarra,Net-a-Porter,1858.08,988.98,4347.78,52
+Peter Do,Net-a-Porter,1851.78,646.88,3713.34,14
+Valentino Garavani,Mr Porter,1845.83,311.0,5909.0,70
+Blazé Milano,Net-a-Porter,1835.52,534.92,3110.0,30
+Métier,Mr Porter,1834.9,360.76,6157.8,17
+Thom Browne,Net-a-Porter,1832.68,808.6,3918.6,28
+Mugler,Net-a-Porter,1832.54,485.16,6531.0,58
+Lapointe,Net-a-Porter,1807.95,609.56,2799.0,18
+Shoreditch Ski Club,Net-a-Porter,1793.85,864.58,2481.78,5
+Enfants Riches Déprimés,Mr Porter,1793.79,765.06,4851.6,23
+Purdey,Mr Porter,1792.75,177.89,9342.44,43
+Nensi Dojaka,Net-a-Porter,1785.64,980.27,4952.36,15
+Edward Green,Mr Porter,1777.68,1598.54,2177.0,5
+Saman Amel,Mr Porter,1754.37,497.6,5486.04,56
+Acronym,Mr Porter,1751.28,690.42,2842.54,9
+Nina Ricci,Net-a-Porter,1750.81,559.8,5305.66,25
+Raf Simons,Mr Porter,1750.04,466.5,6269.76,14
+Moncler Grenoble,Net-a-Porter,1743.07,422.96,4279.36,76
+Bennett Winch,Mr Porter,1740.14,653.1,3296.6,17
+Et Ochs,Net-a-Porter,1735.38,740.18,2232.98,12
+Magda Butrym,Net-a-Porter,1733.91,267.46,9709.42,123
+Galvan,Net-a-Porter,1729.44,404.3,3228.18,44
+Taller Marmo,Net-a-Porter,1728.86,684.2,4920.02,50
+Gucci,Mr Porter,1701.47,236.36,7090.8,462
+Balenciaga,Mr Porter,1699.4,155.5,10263.0,270
+The Vampire'S Wife,Net-a-Porter,1698.95,964.1,2780.34,14
+Dodo Bar Or,Net-a-Porter,1692.92,480.18,4130.08,31
+Max Mara,Net-a-Porter,1682.4,118.18,13186.4,120
+Valentino,Mr Porter,1679.4,1430.6,1928.2,2
+Rick Owens,Mr Porter,1666.96,167.94,6288.42,76
+Moncler Genius,Mr Porter,1660.76,118.18,7383.14,193
+Halfboy,Net-a-Porter,1646.86,740.18,3103.78,13
+Rowen Rose,Net-a-Porter,1634.48,609.56,3221.96,18
+Jil Sander,Mr Porter,1628.58,534.92,4341.56,47
+Moncler,Net-a-Porter,1625.11,410.52,3545.4,114
+Thom Browne,Mr Porter,1622.42,435.4,6468.8,56
+Grace Ling,Net-a-Porter,1596.14,485.16,3595.16,14
+Giuliva Heritage,Net-a-Porter,1588.05,497.6,5212.36,35
+Simone Rocha,Net-a-Porter,1555.72,143.06,4677.44,26
+Roland Mouret,Net-a-Porter,1555.0,746.4,2177.0,8
+Loewe,Mr Porter,1550.35,311.0,9019.0,182
+Rosie Assoulin,Net-a-Porter,1533.23,740.18,2357.38,16
+Rapport London,Mr Porter,1531.73,247.56,6064.5,34
+Proenza Schouler,Net-a-Porter,1531.22,435.4,6083.16,116
+Carine Gilson,Net-a-Porter,1525.14,416.74,2848.76,16
+Mastermind World,Mr Porter,1521.1,472.72,5946.32,20
+Jil Sander,Net-a-Porter,1519.91,534.92,3221.96,39
+The Elder Statesman,Net-a-Porter,1515.4,267.46,4098.98,41
+Jimmy Choo,Net-a-Porter,1508.39,740.18,5840.58,144
+Cartier Eyewear,Net-a-Porter,1492.8,1225.34,1797.58,8
+Roger Vivier,Net-a-Porter,1487.15,615.78,4969.78,76
+Moncler Genius,Net-a-Porter,1482.67,410.52,3694.68,43
+Fear Of God,Mr Porter,1477.1,155.5,4969.78,63
+Petar Petrov,Net-a-Porter,1473.64,503.82,3825.3,37
+Lafayette 148,Net-a-Porter,1463.27,992.71,2485.51,23
+Moncler Grenoble,Mr Porter,1462.41,248.8,3389.9,105
+Maison Margiela,Net-a-Porter,1461.7,671.76,2699.48,27
+Area,Net-a-Porter,1450.67,864.58,2481.78,22
+Mônot,Net-a-Porter,1443.82,559.8,2481.78,8
+Stòffa,Mr Porter,1440.18,248.8,4478.4,76
+Dries Van Noten,Net-a-Porter,1435.98,311.0,4497.06,177
+High Sport,Net-a-Porter,1434.49,721.52,3607.6,16
+Off-White,Net-a-Porter,1425.17,261.24,4839.16,109
+Valstar,Mr Porter,1423.88,721.52,3483.2,25
+Sacai,Mr Porter,1421.76,255.02,2935.84,19
+Burberry,Mr Porter,1393.28,93.3,7339.6,178
+Sacai,Net-a-Porter,1391.72,211.48,2935.84,56
+Paco Rabanne,Net-a-Porter,1390.49,360.76,4851.6,79
+Messika,Mr Porter,1380.84,1380.84,1380.84,1
+Gianvito Rossi,Net-a-Porter,1368.88,839.7,3601.38,171
+Isabel Marant,Net-a-Porter,1361.76,199.04,6095.6,274
+Christian Louboutin,Net-a-Porter,1361.03,311.0,2848.76,286
+The Attico,Net-a-Porter,1357.89,385.64,3234.4,65
+Cecilie Bahnsen,Net-a-Porter,1352.17,746.4,2861.2,23
+Gallery Dept.,Mr Porter,1351.13,80.86,11196.0,121
+Amina Muaddi,Net-a-Porter,1346.19,821.04,2481.78,49
+Manolo Blahnik,Net-a-Porter,1343.93,839.7,2581.3,126
+Comme Des Garçons Comme Des Garçons,Net-a-Porter,1338.74,429.18,2879.86,13
+Visvim,Mr Porter,1337.11,404.3,3271.72,92
+Tove,Net-a-Porter,1330.65,422.96,4515.72,29
+Aquazzura,Net-a-Porter,1330.09,585.92,3545.4,137
+Dunhill,Mr Porter,1329.71,236.36,6462.58,95
+Pucci,Net-a-Porter,1328.47,180.38,6257.32,148
+Drkshdw By Rick Owens,Mr Porter,1319.84,553.58,2593.74,26
+Meng,Net-a-Porter,1312.42,1044.96,1492.8,4
+Boglioli,Mr Porter,1303.21,311.0,5685.08,52
+Marni,Net-a-Porter,1302.61,659.32,3358.8,26
+Aztech Mountain,Mr Porter,1301.71,478.94,2301.4,18
+Interior,Net-a-Porter,1300.31,472.72,2338.72,19
+Dries Van Noten,Mr Porter,1299.62,298.56,4776.96,86
+Sophie Buhai,Net-a-Porter,1298.94,149.28,3234.4,6
+Gauchere,Net-a-Porter,1289.63,584.68,2904.74,25
+Monse,Net-a-Porter,1289.24,733.96,2351.16,22
+Tod'S,Net-a-Porter,1284.97,677.98,3663.58,58
+Victoria Beckham,Net-a-Porter,1282.84,161.72,3595.16,82
+Alexander Mcqueen,Mr Porter,1280.54,136.84,5287.0,128
+Mach & Mach,Net-a-Porter,1272.34,933.0,1617.2,36
+Givenchy,Mr Porter,1271.78,230.14,6904.2,153
+Mackintosh,Mr Porter,1270.66,491.38,1530.12,7
+Bode,Net-a-Porter,1266.72,286.12,4727.2,23
+Lemaire,Mr Porter,1258.17,242.58,2730.58,18
+Benedetta Bruzziches,Net-a-Porter,1248.78,497.6,1984.18,26
+Unimatic,Mr Porter,1245.56,1175.58,1268.88,4
+Thom Sweeney,Mr Porter,1235.31,230.14,5125.28,56
+Simone Rocha,Mr Porter,1225.06,261.24,3812.86,22
+Balmain Eyewear,Net-a-Porter,1224.45,895.68,1567.44,7
+Rudsak,Net-a-Porter,1222.23,864.58,1859.78,8
+4Sdesigns,Mr Porter,1217.56,578.46,2071.26,16
+Legres,Net-a-Porter,1208.46,1063.62,1306.2,7
+Moncler,Mr Porter,1205.61,199.04,3980.8,280
+Maison Margiela,Mr Porter,1205.5,236.36,3309.04,42
+Airei,Mr Porter,1205.35,348.32,2270.3,14
+Christian Louboutin,Mr Porter,1195.23,286.12,3669.8,163
+Louisa Parris,Net-a-Porter,1192.17,852.14,1492.8,6
+Lukhanyo . Mdingi,Net-a-Porter,1190.09,534.92,2239.2,6
+Herno,Mr Porter,1187.11,615.78,2295.18,34
+Michael Lo Sordo,Net-a-Porter,1186.15,702.86,1604.76,12
+Canada Goose,Net-a-Porter,1179.28,342.1,2301.4,37
+Missoni,Net-a-Porter,1177.61,211.48,4776.96,140
+Bernadette,Net-a-Porter,1173.71,485.16,3203.3,50
+Marni,Mr Porter,1173.06,335.88,8086.0,74
+Aztech Mountain,Net-a-Porter,1162.77,248.8,2301.4,17
+Sprwmn,Net-a-Porter,1161.07,342.1,1984.18,15
+Rhude,Mr Porter,1148.35,80.86,4882.7,82
+Herno Laminar,Mr Porter,1147.24,870.8,1629.64,18
+Amiri,Mr Porter,1145.0,87.08,3719.56,84
+Toni Sailer,Net-a-Porter,1140.65,298.56,1990.4,13
+A.W.A.K.E. Mode,Net-a-Porter,1139.56,180.38,2195.66,24
+Christopher Esber,Net-a-Porter,1137.12,466.5,2953.26,50
+Patou,Net-a-Porter,1136.88,186.6,2724.36,27
+Bogner,Net-a-Porter,1132.61,111.96,6095.6,66
+Fusalp,Net-a-Porter,1132.5,174.16,2861.2,27
+Thebe Magugu,Net-a-Porter,1130.26,510.04,2259.1,7
+Christopher Kane,Net-a-Porter,1127.89,590.9,1710.5,6
+Bogner,Mr Porter,1125.52,174.16,2736.8,21
+Paris Texas,Net-a-Porter,1120.18,802.38,1953.08,32
+Dima Ayad,Net-a-Porter,1114.94,783.72,1306.2,8
+Ami Paris,Net-a-Porter,1114.73,379.42,3383.68,23
+Akris,Net-a-Porter,1113.38,1113.38,1113.38,1
+Caruso,Mr Porter,1104.95,405.54,2612.4,22
+Molly Goddard,Net-a-Porter,1101.86,528.7,2674.6,27
+Az Factory,Net-a-Porter,1091.43,752.62,1710.5,17
+Giuseppe Zanotti,Net-a-Porter,1091.28,736.45,2102.36,21
+Fortela,Net-a-Porter,1089.7,256.26,3626.26,56
+Wales Bonner,Net-a-Porter,1086.43,410.52,2058.82,9
+La Doublej,Net-a-Porter,1084.08,186.6,3595.16,100
+Coperni,Net-a-Porter,1080.29,522.48,2077.48,25
+Etro,Mr Porter,1077.43,273.68,3775.54,51
+Johanna Ortiz,Net-a-Porter,1076.65,236.36,3047.8,74
+Amiri,Net-a-Porter,1075.17,534.92,1977.96,14
+Jacquemus,Net-a-Porter,1071.64,136.84,3980.8,128
+Manolo Blahnik,Mr Porter,1067.28,635.68,1486.58,53
+George Cleverley,Mr Porter,1064.51,80.86,1486.58,42
+Ferragamo,Mr Porter,1064.19,255.02,3110.0,33
+Jacques Marie Mage,Net-a-Porter,1058.64,684.2,1859.78,15
+Valextra,Mr Porter,1057.4,1057.4,1057.4,1
+Jacques Marie Mage,Mr Porter,1057.0,740.18,1735.38,31
+R13,Net-a-Porter,1054.29,491.38,2357.38,28
+Another Tomorrow,Net-a-Porter,1053.85,223.92,3110.0,42
+Emporio Sirenuse,Net-a-Porter,1053.67,288.61,2047.62,25
+Marchesa Notte,Net-a-Porter,1051.18,988.98,1113.38,6
+Joseph,Net-a-Porter,1049.74,174.16,3352.58,89
+Jennifer Chamandi,Net-a-Porter,1048.55,808.6,2052.6,26
+La Californienne,Mr Porter,1048.51,497.6,2338.72,14
+J.M. Weston,Mr Porter,1041.23,155.5,1262.66,5
+Golden Bear,Mr Porter,1040.44,696.64,1754.04,11
+Nili Lotan,Mr Porter,1040.2,230.14,2730.58,47
+Borgo De Nor,Net-a-Porter,1032.52,410.52,1816.24,32
+Jw Anderson,Net-a-Porter,1029.59,311.0,2475.56,53
+D'Accori,Net-a-Porter,1027.54,933.0,1405.72,5
+Off-White,Mr Porter,1026.82,136.84,6624.3,149
+Inis Meáin,Mr Porter,1017.32,174.16,2108.58,27
+Dion Lee,Net-a-Porter,1013.29,534.92,1903.32,33
+Saint Mxxxxxx,Mr Porter,1012.48,447.84,3638.7,36
+Bode,Mr Porter,1012.23,217.7,2469.34,65
+Stone Island,Mr Porter,1009.4,223.92,7551.08,106
+Kassl Editions,Net-a-Porter,1007.64,709.08,1368.4,6
+Loretta Caponi,Net-a-Porter,1007.64,544.87,2004.08,18
+Wardrobe.Nyc,Net-a-Porter,1005.03,155.5,3110.0,62
+Olivia Von Halle,Net-a-Porter,999.8,130.62,2015.28,23
+Zimmermann,Net-a-Porter,998.72,211.48,3296.6,230
+Neous,Net-a-Porter,998.31,740.18,1710.5,16
+Nili Lotan,Net-a-Porter,997.88,155.5,5598.0,126
+Pippa Holt,Net-a-Porter,991.72,200.28,1523.9,5
+Le Kasha,Net-a-Porter,989.12,335.88,1971.74,46
+Swisskubik,Mr Porter,988.98,988.98,988.98,1
+Hunting Season,Net-a-Porter,988.72,435.4,1679.4,24
+Goldbergh,Net-a-Porter,982.05,123.16,1864.76,26
+Nodaleto,Net-a-Porter,980.5,839.7,1175.58,11
+Courrèges,Net-a-Porter,975.3,311.0,2463.12,20
+Tod'S,Mr Porter,972.81,615.78,1362.18,20
+Kjus,Net-a-Porter,965.19,186.6,1617.2,8
+Lardini,Mr Porter,961.05,143.06,2234.22,29
+Palm Angels,Net-a-Porter,956.32,342.1,2270.3,44
+Wandler,Net-a-Porter,955.46,323.44,1716.72,18
+Rebecca Vallance,Net-a-Porter,951.66,615.78,1505.24,32
+Anna Mason,Net-a-Porter,951.18,634.44,1455.48,13
+Camilla,Net-a-Porter,941.36,247.56,1491.56,35
+Smythson,Mr Porter,940.4,230.14,2730.58,21
+Bouguessa,Net-a-Porter,939.22,404.3,1268.88,11
+Retrofête,Net-a-Porter,938.23,589.66,1959.3,34
+Serapian,Mr Porter,938.18,236.36,2500.44,24
+Cortana,Net-a-Porter,937.35,286.12,2015.28,28
+Philosophy Di Lorenzo Serafini,Net-a-Porter,936.73,431.67,1430.6,9
+Jetset,Net-a-Porter,935.78,217.7,1866.0,38
+Jiyongkim,Mr Porter,933.69,323.44,2568.86,18
+Richard James,Mr Porter,931.35,186.6,3035.36,64
+Co,Net-a-Porter,929.35,404.3,2357.38,29
+Saloni,Net-a-Porter,924.34,491.38,1275.1,51
+Rrl,Mr Porter,920.36,105.74,6468.8,63
+Sulka,Mr Porter,919.99,273.68,2687.04,11
+Alexander Wang,Net-a-Porter,919.18,435.4,1859.78,54
+Piacenza 1733,Mr Porter,912.53,223.92,4080.32,55
+Patbo,Net-a-Porter,905.96,180.38,3980.8,23
+Kingsman,Mr Porter,904.35,80.86,3103.78,71
+Solace London,Net-a-Porter,895.21,609.56,1374.62,53
+Tolu Coker,Net-a-Porter,892.57,454.06,1467.92,18
+Maison Michel,Net-a-Porter,889.46,808.6,1013.86,5
+Jason Wu,Net-a-Porter,889.46,740.18,988.98,5
+Tricker'S,Mr Porter,882.35,746.4,951.66,14
+Lisa Yang,Net-a-Porter,871.64,379.42,1996.62,52
+De Petrillo,Mr Porter,869.33,199.04,2469.34,55
+Three Graces London,Net-a-Porter,865.95,543.63,1251.46,20
+Wales Bonner,Mr Porter,865.39,279.9,2036.43,17
+Abadia,Net-a-Porter,864.58,864.58,864.58,1
+Zankov,Net-a-Porter,862.51,709.08,1001.42,9
+Acne Studios,Net-a-Porter,862.2,143.06,3483.2,144
+Smythson,Net-a-Porter,862.09,87.08,4720.98,26
+Agua By Agua Bendita,Net-a-Porter,861.28,174.16,2612.4,81
+Malone Souliers,Net-a-Porter,858.95,677.98,1181.8,21
+Beare Park,Net-a-Porter,858.86,447.84,1985.42,15
+Anya Hindmarch,Net-a-Porter,857.15,80.86,2581.3,74
+Esse Studios,Net-a-Porter,856.4,230.14,2015.28,19
+Lorenzi Milano,Mr Porter,845.92,758.84,933.0,2
+Massimo Alba,Mr Porter,845.46,236.36,3725.78,81
+Federico Curradi,Mr Porter,844.68,522.48,1125.82,10
+Mulberry,Mr Porter,833.71,136.84,2407.14,27
+Canali,Mr Porter,832.15,155.5,3153.54,112
+Brunello Cucinelli Eyewear,Mr Porter,824.36,798.65,869.56,3
+Erin Snow,Net-a-Porter,823.73,221.43,1863.51,25
+Pearls Before Swine,Mr Porter,817.21,317.22,2002.84,13
+Ahluwalia,Net-a-Porter,817.08,528.7,1368.4,11
+Alexandre Birman,Net-a-Porter,815.6,615.78,1113.38,8
+Aton,Mr Porter,815.47,261.24,1635.86,19
+Stuart Weitzman,Net-a-Porter,811.21,435.4,1237.78,31
+Officine Creative,Mr Porter,811.14,615.78,1026.3,49
+Calle Del Mar,Net-a-Porter,809.08,304.78,1803.8,13
+Marant Étoile,Net-a-Porter,801.18,391.86,4005.68,114
+Ellie Mercer,Mr Porter,795.68,454.06,1610.98,13
+Mr Leight,Mr Porter,794.83,653.1,864.58,14
+Caroline Constas,Net-a-Porter,791.11,435.4,1362.18,16
+Canada Goose,Mr Porter,790.05,217.7,1928.2,116
+Bonastre,Mr Porter,789.05,578.46,1113.38,7
+Cutler And Gross,Mr Porter,785.13,572.24,1337.3,22
+Golden Goose,Net-a-Porter,783.72,143.06,2232.98,125
+Toteme,Net-a-Porter,778.78,130.62,4291.8,215
+Aspesi,Mr Porter,777.39,236.36,2201.88,56
+Palm Angels,Mr Porter,775.8,118.18,3290.38,95
+3.1 Phillip Lim,Net-a-Porter,771.28,559.8,1237.78,13
+Missoni,Mr Porter,769.76,62.2,3097.56,82
+Studio 189,Net-a-Porter,769.5,559.8,1113.38,7
+Baracuta,Mr Porter,767.91,279.9,1430.6,24
+Isabel Marant,Mr Porter,765.56,118.18,4291.8,50
+Lisa Marie Fernandez,Net-a-Porter,759.19,342.1,1237.78,53
+Liberal Youth Ministry,Mr Porter,757.67,223.92,2599.96,16
+Ghiaia Cashmere,Mr Porter,757.51,186.6,1237.78,28
+Rubinacci,Mr Porter,750.86,124.4,2811.44,67
+Ulla Johnson,Net-a-Porter,742.24,174.16,2861.2,151
+Charvet,Net-a-Porter,742.04,559.8,995.2,4
+Auralee,Mr Porter,742.02,49.76,1859.78,27
+Yvonne S,Net-a-Porter,741.62,566.02,857.12,31
+Miles Leon,Mr Porter,740.18,342.1,1797.58,17
+Arch4,Net-a-Porter,736.23,155.5,1648.3,74
+Nanushka,Net-a-Porter,735.29,466.5,1113.38,28
+Comme Des Garçons Girl,Net-a-Porter,731.09,416.74,1150.7,13
+Polite Worldwide,Mr Porter,729.3,149.28,1119.6,12
+Golden Goose,Mr Porter,729.02,677.98,845.92,34
+Luis Morais,Mr Porter,724.35,223.92,1716.72,54
+Tory Burch,Net-a-Porter,722.76,174.16,1617.2,20
+Better Gift Shop,Mr Porter,722.56,74.64,1791.36,6
+Jacquemus,Mr Porter,720.17,55.98,4895.14,46
+Tibi,Net-a-Porter,719.6,230.14,1486.58,55
+Officine Générale,Mr Porter,718.5,143.06,3719.56,99
+C.P. Company,Mr Porter,713.82,205.26,2127.24,42
+Dior Eyewear,Mr Porter,712.51,447.84,1057.4,58
+Gucci Eyewear,Mr Porter,709.6,447.84,1368.4,55
+Allude,Net-a-Porter,706.13,273.68,1604.76,38
+Fendi Eyewear,Mr Porter,705.19,522.48,1312.42,8
+Kjus,Mr Porter,704.93,62.2,2736.8,12
+Marques' Almeida,Net-a-Porter,700.24,279.9,1393.28,19
+Gauge81,Net-a-Porter,698.77,360.76,951.66,35
+A.L.C.,Net-a-Porter,697.05,366.98,1362.18,45
+By Malene Birger,Net-a-Porter,696.64,273.68,1617.2,22
+Le Gramme,Mr Porter,694.75,192.82,2886.08,75
+See By Chloé,Net-a-Porter,692.2,491.38,988.98,28
+Perfect Moment,Net-a-Porter,688.23,236.36,1492.8,46
+Jean Paul Gaultier,Net-a-Porter,687.49,283.63,1928.2,71
+R.M.Williams,Mr Porter,685.58,659.32,833.48,9
+Balenciaga Eyewear,Net-a-Porter,685.01,472.72,1859.78,23
+Belstaff,Mr Porter,684.99,93.3,2469.34,47
+Kaptain Sunshine,Mr Porter,684.84,149.28,2015.28,39
+Eéra,Mr Porter,683.31,354.54,1990.4,7
+Charo Ruiz,Net-a-Porter,681.61,292.34,1430.6,37
+Erl,Mr Porter,681.09,143.06,2183.22,34
+Simkhai,Net-a-Porter,681.04,242.58,2108.58,61
+Kapital,Mr Porter,680.98,43.54,5262.12,183
+Prada Eyewear,Mr Porter,677.98,677.98,677.98,1
+Yuketen,Mr Porter,676.74,342.1,1051.18,20
+Lauren Manoogian,Net-a-Porter,676.54,435.4,1181.8,13
+Loretta Caponi,Mr Porter,675.22,422.96,1287.54,9
+Applied Art Forms,Mr Porter,669.95,49.76,4559.26,24
+Dior Eyewear,Net-a-Porter,664.91,472.72,1530.12,49
+Native Sons,Mr Porter,662.78,528.7,839.7,9
+Oliver Peoples,Mr Porter,660.36,603.34,727.74,6
+Allude,Mr Porter,660.04,105.74,1505.24,26
+Alice + Olivia,Net-a-Porter,656.96,311.0,1237.78,50
+Self-Portrait,Net-a-Porter,656.92,360.76,1020.08,96
+Missoni Home,Mr Porter,655.93,553.58,821.04,11
+Ami Paris,Mr Porter,655.71,167.94,2257.86,69
+Barena,Mr Porter,655.17,223.92,1691.84,63
+By Far,Net-a-Porter,653.93,466.5,821.04,15
+Proenza Schouler White Label,Net-a-Porter,653.16,279.9,1486.58,67
+Miguelina,Net-a-Porter,652.02,404.3,1044.96,30
+Common Projects,Net-a-Porter,651.86,547.36,939.22,9
+Rrr123,Mr Porter,649.64,410.52,1181.8,36
+Saif Ud Deen,Mr Porter,648.71,124.4,1244.0,17
+Ssam,Mr Porter,648.66,223.92,1635.86,7
+Loveshackfancy,Net-a-Porter,647.04,242.58,3103.78,76
+Kask,Mr Porter,646.88,646.88,646.88,1
+Grenson,Mr Porter,646.63,379.42,939.22,25
+Balenciaga Eyewear,Mr Porter,645.77,472.72,1020.08,28
+Yoox Net-A-Porter For The Prince'S Foundation,Net-a-Porter,644.81,491.38,914.34,6
+Ahlem,Mr Porter,641.47,603.34,709.08,23
+Oliver Peoples,Net-a-Porter,640.92,547.36,821.04,19
+Smr Days,Mr Porter,640.9,366.98,1250.22,52
+Saint Laurent Eyewear,Net-a-Porter,640.66,335.88,1194.24,41
+Casablanca,Mr Porter,635.52,230.14,2226.76,46
+Common Projects,Mr Porter,635.13,143.06,895.68,27
+Saint Laurent Eyewear,Mr Porter,633.89,435.4,852.14,34
+Demellier,Net-a-Porter,631.95,559.8,715.3,5
+Gucci Eyewear,Net-a-Porter,630.67,422.96,1188.02,33
+Bottega Veneta Eyewear,Net-a-Porter,630.65,534.92,858.36,23
+Cara Cara,Net-a-Porter,630.21,366.98,901.9,25
+Prada Eyewear,Net-a-Porter,627.18,541.14,646.88,6
+Louisa Ballou,Net-a-Porter,626.79,155.5,2425.8,27
+Goldsign,Net-a-Porter,626.19,236.36,3047.8,38
+Remain Birger Christensen,Net-a-Porter,621.59,99.52,3831.52,30
+Hannah Artwear,Net-a-Porter,620.44,429.18,777.5,16
+Guest In Residence,Net-a-Porter,617.79,118.18,1486.58,31
+Veronica Beard,Net-a-Porter,616.94,211.48,2488.0,112
+Conner Ives,Net-a-Porter,616.28,416.74,905.63,10
+Tom Ford Eyewear,Net-a-Porter,615.78,510.04,696.64,8
+Cult Gaia,Net-a-Porter,613.46,184.11,2236.71,75
+Séfr,Mr Porter,611.59,111.96,2438.24,43
+Porter-Yoshida & Co,Mr Porter,611.21,87.08,1362.18,52
+Rosamosario,Net-a-Porter,609.75,457.79,1393.28,13
+Cordova,Net-a-Porter,607.49,184.11,1853.56,12
+Story Mfg.,Mr Porter,606.53,118.18,1368.4,39
+Incotex,Mr Porter,605.9,155.5,1698.06,107
+Celine Eyewear,Net-a-Porter,605.14,398.08,1181.8,45
+Helmut Lang,Net-a-Porter,605.0,199.04,3228.18,30
+Bottega Veneta Eyewear,Mr Porter,604.96,429.18,858.36,23
+Diane Von Furstenberg,Net-a-Porter,604.69,323.44,933.0,46
+Polo Ralph Lauren,Net-a-Porter,604.07,184.11,2488.0,75
+Bogner Fire+Ice,Net-a-Porter,603.34,186.6,933.0,20
+Karu Research,Mr Porter,602.1,323.44,1573.66,70
+Altea,Mr Porter,601.97,161.72,2469.34,72
+Oroton,Net-a-Porter,600.67,485.16,796.16,7
+Alémais,Net-a-Porter,597.12,491.38,864.58,10
+&Daughter,Net-a-Porter,592.68,454.06,771.28,14
+Small Talk,Mr Porter,588.83,74.64,1150.7,6
+Mara Hoffman,Net-a-Porter,586.57,236.36,1113.38,23
+Chloé Eyewear,Net-a-Porter,582.42,422.96,1156.92,11
+Aje,Net-a-Porter,582.22,180.38,864.58,43
+Loulou Studio,Net-a-Porter,582.19,87.08,1866.0,60
+Fendi,Mr Porter,578.19,323.44,870.8,23
+Diemme,Mr Porter,578.09,497.6,709.08,17
+Suzie Kondi,Net-a-Porter,577.64,205.26,2730.58,38
+Birkenstock 1774,Mr Porter,576.68,491.38,615.78,7
+Aeyde,Net-a-Porter,576.68,342.1,988.98,49
+Tom Ford Eyewear,Mr Porter,571.8,366.98,696.64,14
+Favourbrook,Mr Porter,571.48,80.86,1959.3,41
+Cefinn,Net-a-Porter,570.87,298.56,957.88,29
+Apiece Apart,Net-a-Porter,569.41,354.54,1610.98,22
+L'Agence,Net-a-Porter,568.48,155.5,1803.8,48
+Jw Anderson,Mr Porter,567.64,143.06,1107.16,23
+Mother Of Pearl,Net-a-Porter,565.69,292.34,1113.38,19
+Fusalp,Mr Porter,565.24,49.76,1729.16,16
+Vince,Net-a-Porter,564.0,136.84,3725.78,74
+Sea,Net-a-Porter,563.12,342.1,1057.4,75
+Hatton Labs,Mr Porter,562.81,143.06,2170.78,31
+John Elliott,Mr Porter,562.7,111.96,2239.2,60
+Le Monde Beryl,Net-a-Porter,562.29,547.36,584.68,5
+Rivet,Net-a-Porter,559.8,559.8,559.8,2
+Horizn Studios,Mr Porter,558.91,491.38,696.64,7
+Paul Smith,Mr Porter,557.16,37.32,5691.3,203
+Birkenstock 1774,Net-a-Porter,556.69,447.84,609.56,4
+Pour Les Femmes,Net-a-Porter,556.07,370.71,740.18,4
+Moncler Eyewear,Mr Porter,555.14,485.16,578.46,4
+Alaïa Eyewear,Net-a-Porter,554.82,457.79,603.34,3
+Monitaly,Mr Porter,550.65,366.98,957.88,17
+Acne Studios,Mr Porter,550.0,62.2,3980.8,219
+Matteau,Net-a-Porter,549.68,167.94,1044.96,80
+Joslin,Net-a-Porter,549.43,323.44,945.44,18
+Charvet,Mr Porter,548.67,111.96,839.7,20
+Leslie Amon,Net-a-Porter,545.72,247.56,1332.32,22
+Fendi Eyewear,Net-a-Porter,544.92,323.44,870.8,28
+Persol,Mr Porter,543.32,323.44,733.96,8
+Eres,Net-a-Porter,542.95,124.4,1971.74,238
+De Bonne Facture,Mr Porter,541.73,186.6,1959.3,42
+Savannah Morrow The Label,Net-a-Porter,539.44,422.96,721.52,11
+Drake'S,Mr Porter,535.18,105.74,2475.56,47
+Le 17 Septembre,Mr Porter,535.15,192.82,1232.8,22
+Second / Layer,Mr Porter,534.92,534.92,534.92,1
+Givenchy Eyewear,Mr Porter,534.92,373.2,746.4,3
+Staud,Net-a-Porter,533.75,205.26,1237.78,106
+Róhe,Mr Porter,531.19,312.24,981.52,14
+Givenchy Eyewear,Net-a-Porter,528.63,286.12,746.4,18
+T By Alexander Wang,Net-a-Porter,525.24,342.1,684.2,18
+And Wander,Mr Porter,522.48,211.48,1461.7,54
+Rivet Utility,Net-a-Porter,522.25,435.4,740.18,27
+Norse Projects Arktisk,Mr Porter,520.15,149.28,1076.06,8
+Emme Parsons,Net-a-Porter,517.04,311.0,640.66,8
+Rixo,Net-a-Porter,513.52,248.8,1051.18,59
+Barbour,Net-a-Porter,511.65,167.94,821.04,27
+Schott,Mr Porter,510.82,149.28,1262.66,8
+Caravana,Net-a-Porter,510.76,196.55,719.03,31
+Sky High Farm,Mr Porter,507.88,68.42,2127.24,23
+Waimari,Net-a-Porter,503.51,333.39,653.1,20
+Frame,Net-a-Porter,501.93,161.72,3483.2,151
+66 North,Mr Porter,497.6,80.86,1604.76,20
+Nanamica,Mr Porter,495.9,167.94,1082.28,11
+And Wander,Net-a-Porter,495.27,124.4,970.32,8
+Garrett Leight California Optical,Mr Porter,492.03,441.62,597.12,19
+Bondi Born,Net-a-Porter,491.86,149.28,864.58,26
+M.Cohen,Mr Porter,489.12,267.46,2177.0,22
+Cloe Cassandro,Net-a-Porter,486.76,282.39,639.42,7
+Guess Usa,Mr Porter,482.83,211.48,988.98,8
+I.D. Sarrieri,Net-a-Porter,482.03,210.24,1516.44,37
+Gigi Burris,Net-a-Porter,481.01,342.1,528.7,6
+Black Crows,Mr Porter,480.18,74.64,1044.96,15
+Theory,Net-a-Porter,479.65,242.58,1237.78,35
+Sid Mashburn,Mr Porter,479.22,105.74,1866.0,67
+Dragon Diffusion,Net-a-Porter,477.38,279.9,615.78,8
+Our Legacy,Mr Porter,475.99,136.84,2114.8,57
+Anine Bing,Net-a-Porter,471.11,149.28,1492.8,62
+Alix Pinho,Net-a-Porter,470.86,255.02,847.16,10
+Tom Wood,Mr Porter,469.17,87.08,1374.62,41
+Amomento,Mr Porter,466.81,205.26,920.56,20
+Loewe Eyewear,Net-a-Porter,466.76,385.64,653.1,24
+Bleu De Chauffe,Mr Porter,464.43,155.5,858.36,9
+Emma Willis,Mr Porter,464.24,87.08,752.62,11
+Lemlem,Net-a-Porter,462.67,279.9,615.78,13
+Rag & Bone,Net-a-Porter,458.24,111.96,1362.18,64
+Deadwood,Net-a-Porter,457.79,373.2,522.48,5
+Turnbull & Asser,Mr Porter,456.55,416.74,615.78,5
+APC,Mr Porter,455.64,62.2,2668.38,118
+Oséree,Net-a-Porter,455.37,236.36,1088.5,57
+Ostrya,Mr Porter,454.75,93.3,995.2,9
+The Frankie Shop,Mr Porter,454.43,149.28,1175.58,17
+Jacquie Aiche,Mr Porter,454.06,454.06,454.06,1
+Our Legacy,Net-a-Porter,452.09,339.61,704.1,12
+Orlebar Brown,Mr Porter,450.21,93.3,1299.98,152
+Adish,Mr Porter,448.88,149.28,821.04,18
+Roa,Mr Porter,447.84,323.44,584.68,12
+The Great.,Net-a-Porter,447.06,279.9,684.2,16
+Ganni,Net-a-Porter,446.26,167.94,1103.43,125
+Loewe Eyewear,Mr Porter,443.69,385.64,485.16,9
+Sleeper,Net-a-Porter,441.81,311.0,733.96,32
+Entire Studios,Mr Porter,437.37,210.24,1031.28,12
+La Ligne,Net-a-Porter,437.13,136.84,684.2,36
+Denimist,Net-a-Porter,436.78,304.78,901.9,18
+Collina Strada,Mr Porter,435.88,143.06,721.52,13
+Timex,Mr Porter,435.4,435.4,435.4,1
+Noma T.D.,Mr Porter,434.99,161.72,677.98,15
+Want Les Essentiels,Mr Porter,434.51,155.5,758.84,7
+Loeffler Randall,Net-a-Porter,433.15,217.7,864.58,36
+A Kind Of Guise,Mr Porter,431.75,180.38,1212.9,46
+William Lockie,Mr Porter,431.34,87.08,671.76,23
+120% Lino,Mr Porter,427.85,311.0,796.16,14
+John Smedley,Mr Porter,427.36,43.54,758.84,65
+Derek Rose,Mr Porter,425.54,68.42,5566.9,69
+Colmar,Mr Porter,422.96,74.64,1057.4,9
+Goldwin,Mr Porter,422.41,55.98,1368.4,68
+Kenzo,Mr Porter,421.74,93.3,1163.14,61
+Moon Boot,Net-a-Porter,420.47,242.58,802.38,10
+Stockholm Surfboard Club,Mr Porter,420.4,105.74,2363.6,17
+Peyote Bird,Mr Porter,418.21,118.18,2736.8,38
+Oliver Spencer,Mr Porter,411.35,43.54,1007.64,75
+Honorine,Net-a-Porter,411.32,279.9,495.11,14
+Completedworks,Net-a-Porter,410.52,410.52,410.52,1
+The North Face,Net-a-Porter,410.52,410.52,410.52,1
+Linda Farrow Eyewear,Net-a-Porter,410.52,391.86,447.84,7
+Rag & Bone,Mr Porter,409.5,111.96,1610.98,79
+Orslow,Mr Porter,406.53,124.4,1076.06,39
+Vinny'S,Mr Porter,406.37,335.88,485.16,9
+Burton,Mr Porter,404.99,161.72,833.48,9
+Axel Arigato,Mr Porter,404.78,348.32,491.38,13
+Madeleine Thompson,Net-a-Porter,403.06,403.06,403.06,1
+Ruslan Baginskiy,Net-a-Porter,402.18,298.56,559.8,17
+Scholl,Net-a-Porter,398.08,398.08,398.08,1
+Paravel,Net-a-Porter,396.52,80.86,590.9,16
+Rotate Birger Christensen,Net-a-Porter,394.97,111.96,808.6,48
+Eugenia Kim,Net-a-Porter,389.6,217.7,615.78,11
+Sébline,Net-a-Porter,388.57,199.04,603.34,17
+Frame,Mr Porter,387.11,80.86,1610.98,76
+Batsheva,Net-a-Porter,386.82,186.6,933.0,42
+La Perla,Net-a-Porter,383.9,55.98,920.56,15
+Guest In Residence,Mr Porter,383.86,118.18,653.1,7
+Wolford,Net-a-Porter,382.75,36.08,2388.48,43
+Kimeze,Net-a-Porter,382.53,342.1,416.74,4
+Isa Boulder,Net-a-Porter,382.42,174.16,1012.62,17
+Red Wing Shoes,Mr Porter,381.49,348.32,410.52,3
+Wacko Maria,Mr Porter,380.98,31.1,939.22,44
+Re/Done,Net-a-Porter,380.21,111.96,1735.38,55
+K Jacques St Tropez,Net-a-Porter,380.04,230.14,422.96,10
+Slvrlake,Net-a-Porter,378.62,124.4,547.36,31
+Corridor,Mr Porter,378.2,68.42,1057.4,51
+Kimeze,Mr Porter,376.31,298.56,421.72,10
+Theory,Mr Porter,375.38,87.08,1362.18,57
+Atp Atelier,Net-a-Porter,373.2,242.58,684.2,6
+Needles,Mr Porter,371.13,49.76,933.0,39
+Mr P.,Mr Porter,370.38,37.32,1785.14,418
+Blue Blue Japan,Mr Porter,370.28,18.66,1237.78,32
+Ymc,Mr Porter,368.22,161.72,2270.3,35
+Citizens Of Humanity,Net-a-Porter,365.96,161.72,1555.0,67
+Local Authority La,Mr Porter,364.77,155.5,1088.5,31
+Norda,Mr Porter,362.83,354.54,366.98,6
+Leset,Net-a-Porter,361.5,84.59,1231.56,54
+Johnstons Of Elgin,Mr Porter,361.41,62.2,1299.98,38
+Cherry Los Angeles,Mr Porter,357.34,74.64,1866.0,100
+Suzanne Kalan,Net-a-Porter,352.47,298.56,398.08,3
+Adidas Originals,Net-a-Porter,351.66,111.96,1368.4,54
+St. Agni,Net-a-Porter,350.39,242.58,416.74,6
+James Perse,Mr Porter,344.05,99.52,988.98,70
+Y-3,Mr Porter,343.34,124.4,559.8,15
+Mfpen,Mr Porter,341.21,87.08,727.74,42
+Suicoke,Mr Porter,338.14,255.02,410.52,11
+Lanvin,Mr Porter,337.37,105.74,957.88,25
+Jennifer Behr,Net-a-Porter,335.88,124.4,559.8,14
+Dôen,Net-a-Porter,333.78,109.47,870.8,95
+Haight,Net-a-Porter,332.96,135.6,690.42,23
+Mother,Net-a-Porter,332.4,118.18,559.8,59
+Kardo,Mr Porter,332.01,186.6,821.04,37
+Grlfrnd,Net-a-Porter,331.73,292.34,491.38,6
+Beams Plus,Mr Porter,331.64,31.1,845.92,88
+Filson,Mr Porter,331.47,37.32,740.18,24
+The Frankie Shop,Net-a-Porter,331.04,87.08,1107.16,54
+Ray-Ban,Mr Porter,329.66,329.66,329.66,1
+Sunspel,Mr Porter,327.14,62.2,1492.8,69
+Nn07,Mr Porter,320.51,43.54,2500.44,159
+Indispensable,Mr Porter,319.0,105.74,466.5,7
+Peony,Net-a-Porter,316.47,111.96,584.68,25
+11.11/Eleven Eleven,Mr Porter,315.15,230.14,441.62,12
+Peter Millar,Mr Porter,312.57,80.86,1816.24,83
+Arcs,Mr Porter,312.56,279.9,335.88,4
+Pendleton,Mr Porter,312.29,43.54,933.0,29
+Master-Piece,Mr Porter,310.36,99.52,690.42,29
+Ultraviolhat,Net-a-Porter,309.22,236.36,329.66,7
+Comme Des Garçons,Mr Porter,308.51,124.4,603.34,10
+Lexxola,Net-a-Porter,307.89,298.56,335.88,4
+S.N.S. Herning,Mr Porter,307.71,62.2,528.7,17
+We Norwegians,Net-a-Porter,305.74,123.16,658.08,39
+G/Fore,Net-a-Porter,302.11,279.9,435.4,7
+Ancient Greek Sandals,Net-a-Porter,301.81,174.16,398.08,23
+Houdini,Mr Porter,300.76,55.98,995.2,34
+Rains,Net-a-Porter,299.8,155.5,640.66,10
+Alice Made This,Mr Porter,299.57,111.96,1007.64,37
+Farm Rio,Net-a-Porter,297.62,121.91,491.38,98
+Universal Works,Mr Porter,297.58,143.06,733.96,38
+Paige,Net-a-Porter,297.06,223.92,497.6,54
+Reformation,Net-a-Porter,296.52,124.4,559.8,78
+Apl Athletic Propulsion Labs,Net-a-Porter,296.07,174.16,398.08,15
+Epperson Mountaineering,Mr Porter,295.18,149.28,398.08,7
+Marysia,Net-a-Porter,294.89,184.11,763.82,39
+Anderson & Sheppard,Mr Porter,292.07,43.54,597.12,23
+Snow Peak,Net-a-Porter,291.82,93.3,964.1,12
+Polo Ralph Lauren,Mr Porter,291.23,37.32,4354.0,380
+Apl Athletic Propulsion Labs,Mr Porter,289.58,149.28,497.6,36
+Hunza G,Net-a-Porter,289.44,267.46,323.44,45
+Autry,Net-a-Porter,289.23,255.02,360.76,8
+Coco De Mer,Net-a-Porter,288.46,146.79,862.09,43
+Hartford,Mr Porter,286.85,105.74,622.0,85
+Frescobol Carioca,Mr Porter,286.18,93.3,454.06,97
+Nicholas Daley,Mr Porter,286.12,286.12,286.12,1
+Manaaki,Mr Porter,283.01,118.18,447.84,10
+Maison Kitsuné,Mr Porter,282.27,55.98,733.96,63
+Agolde,Net-a-Porter,277.53,99.52,1113.38,114
+Vilebrequin,Mr Porter,276.34,99.52,391.86,59
+Kiki De Montparnasse,Net-a-Porter,276.25,84.59,1054.91,31
+Faithfull The Brand,Net-a-Porter,273.94,110.72,471.48,107
+Eastpak,Mr Porter,273.68,273.68,273.68,1
+Autry,Mr Porter,272.9,242.58,298.56,16
+Klättermusen,Mr Porter,272.51,87.08,746.4,16
+Howlin',Mr Porter,272.12,37.32,516.26,36
+G.H. Bass & Co.,Mr Porter,270.75,248.8,311.0,17
+Anon,Mr Porter,269.53,37.32,398.08,3
+Deiji Studios,Net-a-Porter,266.22,161.72,373.2,12
+Mulo,Mr Porter,265.79,217.7,354.54,26
+Snow Peak,Mr Porter,264.35,31.1,808.6,38
+Salomon,Mr Porter,264.26,55.98,391.86,59
+Salomon,Net-a-Porter,262.94,136.84,348.32,11
+Bamford London,Mr Porter,261.24,261.24,261.24,2
+Fleur Du Mal,Net-a-Porter,260.33,52.25,864.58,48
+Folk,Mr Porter,259.58,31.1,677.98,90
+Desmond & Dempsey,Net-a-Porter,259.2,145.55,590.9,28
+Satisfy,Mr Porter,254.11,87.08,534.92,34
+District Vision,Mr Porter,254.08,37.32,684.2,53
+Melissa Odabash,Net-a-Porter,253.31,144.3,658.08,51
+Les Tien,Mr Porter,253.17,111.96,435.4,37
+Norma Kamali,Net-a-Porter,252.96,80.86,740.18,154
+Ninety Percent,Net-a-Porter,252.35,49.76,671.76,41
+Anderson'S,Mr Porter,251.66,133.11,391.86,40
+Lauren Rubinski,Net-a-Porter,248.8,248.8,248.8,1
+The North Face,Mr Porter,247.76,31.1,640.66,12
+Norse Projects,Mr Porter,247.56,31.1,783.72,65
+Sophie Bille Brahe,Net-a-Porter,247.56,105.74,454.06,10
+Les Tien,Net-a-Porter,246.31,192.82,329.66,10
+Castañer,Mr Porter,245.87,130.62,348.32,17
+Wtaps®,Mr Porter,243.42,37.32,516.26,67
+Mateo,Net-a-Porter,242.58,242.58,242.58,1
+Zimmerli,Mr Porter,238.67,87.08,622.0,56
+Horus Watch Straps,Mr Porter,238.43,192.82,304.78,3
+Mikia,Mr Porter,238.43,118.18,671.76,30
+Pop Trading Company,Mr Porter,237.68,62.2,808.6,47
+Anderson'S,Net-a-Porter,236.51,146.79,304.78,17
+Nudie Jeans,Mr Porter,234.98,18.66,845.92,54
+Johnstons Of Elgin,Net-a-Porter,234.09,105.74,677.98,23
+Kjus Golf,Mr Porter,234.05,124.4,373.2,7
+New Balance,Mr Porter,233.66,149.28,311.0,30
+A.Emery,Net-a-Porter,232.81,199.04,261.24,7
+Veja,Mr Porter,232.68,174.16,304.78,22
+Merely Made,Mr Porter,230.71,111.96,335.88,11
+Cover Swim,Net-a-Porter,230.58,130.62,435.4,14
+Tory Sport,Net-a-Porter,230.14,99.52,485.16,22
+Sorel,Net-a-Porter,229.66,180.38,279.9,13
+Agnelle,Net-a-Porter,228.58,199.04,261.24,8
+Adidas Consortium,Mr Porter,228.53,24.88,410.52,27
+Desmond & Dempsey,Mr Porter,228.35,28.61,709.08,34
+Original Madras,Mr Porter,228.23,74.64,404.3,13
+Ray-Ban,Net-a-Porter,227.65,202.77,301.05,6
+Neighborhood,Mr Porter,226.3,37.32,752.62,60
+Agent Provocateur,Net-a-Porter,225.05,80.86,808.6,33
+Handvaerk,Mr Porter,223.92,55.98,684.2,32
+Tekla,Net-a-Porter,223.92,174.16,255.02,7
+Alex Mill,Net-a-Porter,223.14,99.52,342.1,24
+Remi Relief,Mr Porter,222.71,80.86,454.06,36
+Alex Mill,Mr Porter,222.41,68.42,528.7,37
+James Perse,Net-a-Porter,222.23,62.2,740.18,61
+L'Etoile Sport,Net-a-Porter,221.76,155.5,466.5,23
+Portuguese Flannel,Mr Porter,221.13,136.84,541.14,49
+Hoka One One,Mr Porter,220.05,68.42,354.54,106
+Lelet Ny,Net-a-Porter,219.44,84.59,532.43,5
+G/Fore,Mr Porter,218.14,49.76,366.98,42
+Danton,Mr Porter,218.0,93.3,497.6,21
+Randy'S Garments,Mr Porter,216.87,43.54,597.12,30
+Veja,Net-a-Porter,216.63,174.16,267.46,29
+District Vision,Net-a-Porter,216.32,149.28,491.38,9
+New Balance,Net-a-Porter,215.29,124.4,298.56,33
+Pas Normal Studios,Mr Porter,214.47,17.42,528.7,40
+Museum Of Peace & Quiet,Mr Porter,211.48,174.16,248.8,2
+Éliou,Mr Porter,205.96,98.28,329.66,23
+Saucony,Mr Porter,205.88,124.4,286.12,20
+Sorel,Mr Porter,205.26,111.96,248.8,14
+Rlx Ralph Lauren,Mr Porter,204.08,124.4,335.88,21
+Castañer,Net-a-Porter,203.19,186.6,217.7,3
+Miansai,Mr Porter,202.15,55.98,1026.3,70
+On,Mr Porter,200.46,37.32,622.0,101
+Varley,Net-a-Porter,199.23,74.64,684.2,51
+Faherty,Mr Porter,199.04,74.64,559.8,51
+Lady White Co,Mr Porter,197.48,87.08,286.12,12
+Hestra,Mr Porter,197.38,136.84,373.2,15
+Birkenstock,Net-a-Porter,195.36,136.84,273.68,22
+Hoka One One,Net-a-Porter,194.89,174.16,230.14,6
+Cafe Du Cycliste,Mr Porter,193.88,24.88,379.42,41
+Maap,Mr Porter,193.1,24.88,485.16,31
+L'Atelier Nawbar,Net-a-Porter,190.75,186.6,199.04,3
+Tekla,Mr Porter,190.06,124.4,255.02,9
+Form And Fold,Net-a-Porter,189.28,99.52,352.05,13
+Atm Anthony Thomas Melillo,Net-a-Porter,189.23,87.08,491.38,26
+Adidas By Stella Mccartney,Net-a-Porter,185.44,62.2,684.2,86
+Saturdays Nyc,Mr Porter,184.92,18.66,796.16,37
+Cotopaxi,Mr Porter,183.55,36.08,373.2,31
+Birkenstock,Mr Porter,181.62,149.28,211.48,10
+Sporty & Rich,Net-a-Porter,177.59,24.88,547.36,82
+Dents,Mr Porter,177.03,87.08,765.06,13
+Rapha,Mr Porter,176.16,19.9,522.48,101
+La Paz,Mr Porter,174.81,105.74,255.02,19
+Falke Ergonomic Sport System,Net-a-Porter,174.52,49.76,559.8,28
+Club Monaco,Mr Porter,171.85,43.54,746.4,105
+Lacoste,Net-a-Porter,171.21,74.64,491.38,19
+Skin,Net-a-Porter,171.11,29.86,435.4,96
+On,Net-a-Porter,169.9,74.64,373.2,59
+Native Union,Mr Porter,167.94,62.2,348.32,6
+Eberjey,Net-a-Porter,165.71,72.15,246.31,63
+Save Khaki United,Mr Porter,164.77,68.42,311.0,42
+The Upside,Net-a-Porter,163.28,74.64,223.92,24
+Outerknown,Mr Porter,162.22,74.64,373.2,37
+General Admission,Mr Porter,161.72,93.3,261.24,5
+Asics,Net-a-Porter,161.72,161.72,161.72,1
+Pasadena Leisure Club,Mr Porter,160.16,87.08,242.58,28
+Hommegirls,Net-a-Porter,156.74,37.32,304.78,5
+Dr. Barbara Sturm,Net-a-Porter,155.5,155.5,155.5,1
+Splits59,Net-a-Porter,154.33,99.52,223.92,16
+Roxanne Assoulin,Mr Porter,153.36,80.86,298.56,32
+Metalwood,Mr Porter,152.27,52.25,261.24,10
+Reigning Champ,Mr Porter,151.65,43.54,248.8,32
+Fear Of God Essentials,Mr Porter,149.86,55.98,373.2,43
+Nike Running,Mr Porter,148.48,29.86,342.1,161
+Hanro,Mr Porter,146.33,44.78,317.22,24
+Carhartt Wip,Mr Porter,146.21,24.88,485.16,88
+Year Of Ours,Net-a-Porter,144.3,144.3,144.3,1
+Nike,Net-a-Porter,143.3,37.32,311.0,142
+Dr. Barbara Sturm,Mr Porter,143.06,143.06,143.06,1
+Cdlp,Net-a-Porter,142.97,110.72,205.26,14
+Bather,Mr Porter,137.49,105.74,186.6,19
+Cdlp,Mr Porter,134.42,37.32,279.9,39
+Onia,Mr Porter,134.16,68.42,230.14,51
+Nike Golf,Mr Porter,133.46,46.03,311.0,63
+Good American,Net-a-Porter,131.95,73.4,236.36,58
+Vibi Venezia,Net-a-Porter,131.66,118.18,136.84,6
+Lululemon,Mr Porter,128.44,24.88,373.2,134
+Commando,Net-a-Porter,126.81,29.86,283.63,48
+Nike,Mr Porter,126.62,31.1,559.8,188
+Hanky Panky,Net-a-Porter,121.54,49.76,358.27,20
+Brain Dead,Mr Porter,121.29,87.08,248.8,8
+Norbit By Hiroshi Nozawa,Mr Porter,121.29,118.18,124.4,2
+Thisisneverthat,Mr Porter,119.25,49.76,311.0,29
+Sperry,Mr Porter,118.18,118.18,118.18,1
+Converse,Net-a-Porter,116.11,105.74,136.84,6
+Arket,Mr Porter,115.42,37.32,360.76,36
+Converse,Mr Porter,115.35,93.3,186.6,11
+Alo Yoga,Net-a-Porter,114.63,62.2,171.67,34
+Hanro,Net-a-Porter,112.82,52.25,238.85,16
+Throwing Fits,Mr Porter,110.92,62.2,186.6,6
+Dime,Mr Porter,109.6,43.54,286.12,50
+Spanx,Net-a-Porter,109.57,29.86,308.51,65
+Adidas Originals,Mr Porter,108.29,37.32,248.8,39
+Lululemon,Net-a-Porter,107.8,43.54,283.63,97
+Nike Tennis,Mr Porter,107.35,22.39,211.48,72
+Go Barefoot,Mr Porter,105.74,68.42,124.4,15
+Oakley Factory,Mr Porter,105.74,105.74,105.74,1
+Café Kitsuné,Mr Porter,105.74,24.88,236.36,9
+Cou Cou,Net-a-Porter,104.5,74.64,124.4,6
+Outdoor Voices,Net-a-Porter,103.38,49.76,174.16,29
+Outdoor Voices,Mr Porter,101.09,47.27,174.16,19
+Cosabella,Net-a-Porter,100.94,29.86,205.26,21
+Velva Sheen,Mr Porter,99.52,87.08,111.96,12
+Else,Net-a-Porter,98.15,55.98,136.84,10
+Roxanne First,Net-a-Porter,96.41,93.3,99.52,2
+Nike Training,Mr Porter,95.11,24.88,204.02,62
+La Bouche Rouge,Net-a-Porter,89.15,74.64,99.52,3
+Andafterthat,Mr Porter,88.64,87.08,99.52,8
+Le Specs,Net-a-Porter,88.12,74.64,111.96,12
+Heist,Net-a-Porter,86.08,39.81,171.67,10
+Baserange,Net-a-Porter,83.6,32.34,160.48,15
+Joanna Czech,Net-a-Porter,82.1,82.1,82.1,1
+"Y,Iwo",Mr Porter,80.86,80.86,80.86,1
+Girlfriend Collective,Net-a-Porter,76.04,37.32,124.4,31
+Dora Larsen,Net-a-Porter,73.7,42.3,102.01,29
+Stray Rats,Mr Porter,73.44,31.1,161.72,31
+Andreādamo,Net-a-Porter,73.4,73.4,73.4,1
+Calvin Klein Underwear,Mr Porter,71.7,37.32,186.6,47
+Socksss,Net-a-Porter,59.71,59.71,59.71,1
+Skims,Net-a-Porter,55.48,22.39,184.11,296
+Slip,Net-a-Porter,48.52,48.52,48.52,2
+Rostersox,Mr Porter,44.64,43.54,62.2,17
+Anonymous Ism,Mr Porter,43.54,43.54,43.54,1
+Falke,Mr Porter,38.15,36.08,41.05,3
+Heimplanet,Mr Porter,37.32,37.32,37.32,1

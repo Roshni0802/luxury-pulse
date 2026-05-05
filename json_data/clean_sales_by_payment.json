@@ -1,0 +1,16 @@
+[
+  {
+    "payment_type":"Cash",
+    "transaction_count":1312,
+    "total_revenue":200338.0,
+    "avg_order_value":152.7,
+    "avg_review_score":2.98
+  },
+  {
+    "payment_type":"Credit Card",
+    "transaction_count":1438,
+    "total_revenue":230614.0,
+    "avg_order_value":160.37,
+    "avg_review_score":2.99
+  }
+]
