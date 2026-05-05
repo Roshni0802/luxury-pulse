@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Luxury Pulse</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💎</text></svg>">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.27.0/plotly.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js"></script>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <div class="brand-name">LUXURY PULSE</div>
+    <div class="brand-dot"></div>
+    <div class="brand-sub">Fashion Intelligence Platform</div>
+  </div>
+  <nav>
+    <div class="nav-tab active" data-page="sales" onclick="showPage(this)">
+      <div class="nav-dot"></div>Sales Overview
+    </div>
+    <div class="nav-tab" data-page="products" onclick="showPage(this)">
+      <div class="nav-dot"></div>Product Explorer
+    </div>
+    <div class="nav-tab" data-page="brands" onclick="showPage(this)">
+      <div class="nav-dot"></div>Brand Intelligence
+    </div>
+    <div class="nav-tab" data-page="pulse" onclick="showPage(this)">
+      <div class="nav-dot"></div>Brand Pulse
+    </div>
+  </nav>
+  <div class="status-bar">
+    <div class="status-dot"></div>
+    <span id="data-status">Loading...</span>
+  </div>
+</header>
+
+<main>
+
+  <!-- PAGE 1 — SALES OVERVIEW -->
+  <section class="page active" id="page-sales">
+    <div class="page-header">
+      <div>
+        <div class="page-title">Sales <em>Overview</em></div>
+        <div class="page-subtitle">Transactions · Revenue · Customer Behaviour</div>
+      </div>
+      <div class="filter-bar">
+        <label class="filter-label" for="filter-year">Year</label>
+        <select id="filter-year" onchange="renderSales()">
+          <option value="all">All Years</option>
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+        </select>
+        <label class="filter-label" for="filter-payment">Payment</label>
+        <select id="filter-payment" onchange="renderSales()">
+          <option value="all">All Payments</option>
+        </select>
+      </div>
+    </div>
+    <div class="kpi-grid" id="kpi-sales"></div>
+    <div class="insight-strip" id="insight-sales"></div>
+    <div class="chart-wide-narrow">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Monthly Revenue Trend</div><div class="chart-tag">Time Series</div></div>
+        <div class="chart-body"><div id="chart-revenue"></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Payment Methods</div><div class="chart-tag">Distribution</div></div>
+        <div class="chart-body"><div id="chart-payment"></div></div>
+      </div>
+    </div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Top Categories by Revenue</div><div class="chart-tag">Ranking</div></div>
+        <div class="chart-body"><div id="chart-categories"></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Review Score Distribution</div><div class="chart-tag">Customer Sentiment</div></div>
+        <div class="chart-body"><div id="chart-reviews"></div></div>
+      </div>
+    </div>
+    <div class="chart-full">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Revenue by Top 5 Categories Over Time</div><div class="chart-tag">Multi-Series</div></div>
+        <div class="chart-body"><div id="chart-cat-trend"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PAGE 2 — PRODUCT EXPLORER -->
+  <section class="page" id="page-products">
+    <div class="page-header">
+      <div>
+        <div class="page-title">Product <em>Explorer</em></div>
+        <div class="page-subtitle">Pricing · Categories · Tier Analysis</div>
+      </div>
+      <div class="filter-bar">
+        <label class="filter-label" for="filter-tier">Tier</label>
+        <select id="filter-tier" onchange="renderProducts()">
+          <option value="all">All Tiers</option>
+          <option value="Entry Luxury">Entry Luxury (&lt;$200)</option>
+          <option value="Mid Luxury">Mid Luxury $200-$800</option>
+          <option value="High Luxury">High Luxury $800-$2500</option>
+          <option value="Ultra Luxury">Ultra Luxury $2500+</option>
+        </select>
+        <label class="filter-label" for="filter-platform">Platform</label>
+        <select id="filter-platform" onchange="renderProducts()">
+          <option value="all">All Platforms</option>
+          <option value="Net-a-Porter">Net-a-Porter</option>
+          <option value="Mr Porter">Mr Porter</option>
+        </select>
+      </div>
+    </div>
+    <div class="kpi-grid" id="kpi-products"></div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Price Tier Distribution</div><div class="chart-tag">Segmentation</div></div>
+        <div class="chart-body"><div id="chart-price-tiers"></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Avg Price by Category</div><div class="chart-tag">Comparison</div></div>
+        <div class="chart-body"><div id="chart-price-by-cat"></div></div>
+      </div>
+    </div>
+    <div class="chart-full">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Top 25 Brands — Avg Price vs Product Count</div><div class="chart-tag">Bubble Chart</div></div>
+        <div class="chart-body"><div id="chart-brand-bubble"></div></div>
+      </div>
+    </div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Apparel Category Breakdown</div><div class="chart-tag">Distribution</div></div>
+        <div class="chart-body"><div id="chart-apparel-cats"></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Stock Availability by Platform</div><div class="chart-tag">Status</div></div>
+        <div class="chart-body"><div id="chart-availability"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PAGE 3 — BRAND INTELLIGENCE -->
+  <section class="page" id="page-brands">
+    <div class="page-header">
+      <div>
+        <div class="page-title">Brand <em>Intelligence</em></div>
+        <div class="page-subtitle">Positioning · Pricing Strategy · Portfolio Depth</div>
+      </div>
+      <div class="filter-bar">
+        <label class="filter-label" for="filter-top-brands">Show top</label>
+        <select id="filter-top-brands" onchange="renderBrands()">
+          <option value="15">15 brands</option>
+          <option value="25" selected>25 brands</option>
+          <option value="40">40 brands</option>
+        </select>
+      </div>
+    </div>
+    <div class="kpi-grid" id="kpi-brands"></div>
+    <div class="chart-full">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Brand Portfolio Map — Size = Products · Color = Avg Price</div><div class="chart-tag">Treemap</div></div>
+        <div class="chart-body"><div id="chart-brand-scatter"></div></div>
+      </div>
+    </div>
+    <div class="chart-grid-2">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Top Brands by Average Price</div><div class="chart-tag">Ranking</div></div>
+        <div class="chart-body"><div id="chart-brand-avg-price"></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Top Brands by Product Count</div><div class="chart-tag">Portfolio Size</div></div>
+        <div class="chart-body"><div id="chart-brand-count"></div></div>
+      </div>
+    </div>
+    <div class="chart-full">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Price Range — Min to Max by Brand (Top 20)</div><div class="chart-tag">Range Analysis</div></div>
+        <div class="chart-body"><div id="chart-brand-range"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PAGE 4 — BRAND PULSE -->
+  <section class="page" id="page-pulse">
+    <div class="page-header">
+      <div>
+        <div class="page-title">Brand <em>Pulse</em></div>
+        <div class="page-subtitle">Search Interest · Market Awareness · Seasonality</div>
+      </div>
+      <div class="filter-bar">
+        <label class="filter-label" for="filter-pulse-year">Year</label>
+        <select id="filter-pulse-year" onchange="renderPulse()">
+          <option value="all">All Years</option>
+          <option value="2019">2019</option>
+          <option value="2020">2020</option>
+          <option value="2021">2021</option>
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+          <option value="2024">2024</option>
+        </select>
+      </div>
+    </div>
+    <div class="kpi-grid" id="kpi-pulse"></div>
+    <div class="chart-full">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Search Interest Over Time — All Brands</div><div class="chart-tag">Time Series</div></div>
+        <div class="chart-body"><div id="chart-trends-line"></div></div>
+      </div>
+    </div>
+    <div class="chart-full">
+      <div class="chart-card">
+        <div class="chart-card-header"><div class="chart-title">Monthly Search Interest Heatmap — Seasonality</div><div class="chart-tag">Heatmap</div></div>
+        <div class="chart-body"><div id="chart-trends-heatmap"></div></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
