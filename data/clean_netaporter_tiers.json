@@ -1,0 +1,22 @@
+[
+  {
+    "price_tier":"Entry Luxury",
+    "product_count":5662,
+    "avg_price_usd":124.58
+  },
+  {
+    "price_tier":"Mid Luxury",
+    "product_count":16841,
+    "avg_price_usd":467.32
+  },
+  {
+    "price_tier":"High Luxury",
+    "product_count":15228,
+    "avg_price_usd":1408.86
+  },
+  {
+    "price_tier":"Ultra Luxury",
+    "product_count":5777,
+    "avg_price_usd":5214.88
+  }
+]

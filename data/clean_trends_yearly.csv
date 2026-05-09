@@ -1,0 +1,49 @@
+year,brand,avg_interest,peak_interest
+2019,Balenciaga,24.8,28
+2019,Burberry,18.7,27
+2019,Chanel,41.1,54
+2019,Dior,35.5,54
+2019,Gucci,59.9,71
+2019,Louis Vuitton,34.9,47
+2019,Prada,14.8,18
+2019,Versace,28.8,43
+2020,Balenciaga,18.8,25
+2020,Burberry,17.0,25
+2020,Chanel,40.3,51
+2020,Dior,49.3,75
+2020,Gucci,54.1,67
+2020,Louis Vuitton,34.1,42
+2020,Prada,15.5,18
+2020,Versace,23.2,30
+2021,Balenciaga,17.4,23
+2021,Burberry,18.2,27
+2021,Chanel,41.4,60
+2021,Dior,60.2,92
+2021,Gucci,58.7,100
+2021,Louis Vuitton,35.2,48
+2021,Prada,19.4,25
+2021,Versace,26.1,36
+2022,Balenciaga,29.1,59
+2022,Burberry,18.7,24
+2022,Chanel,42.3,49
+2022,Dior,70.7,94
+2022,Gucci,55.4,71
+2022,Louis Vuitton,33.8,44
+2022,Prada,23.2,26
+2022,Versace,28.3,36
+2023,Balenciaga,17.1,20
+2023,Burberry,18.1,24
+2023,Chanel,39.8,50
+2023,Dior,70.2,100
+2023,Gucci,42.4,49
+2023,Louis Vuitton,30.8,37
+2023,Prada,24.0,28
+2023,Versace,27.2,37
+2024,Balenciaga,17.7,20
+2024,Burberry,19.1,30
+2024,Chanel,40.7,52
+2024,Dior,72.7,94
+2024,Gucci,38.0,46
+2024,Louis Vuitton,31.2,42
+2024,Prada,26.4,32
+2024,Versace,26.4,40

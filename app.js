@@ -24,7 +24,7 @@ function baseLayout(overrides = {}) {
 // ── HELPERS ───────────────────────────────────────────────────
 async function loadJSON(filename) {
   try {
-    const res = await fetch(`json_data/${filename}`);
+    const res = await fetch(`data/${filename}`);
     if (!res.ok) throw new Error(res.status);
     return await res.json();
   } catch(e) {

@@ -10,19 +10,18 @@ import time
 import warnings
 warnings.filterwarnings("ignore")
 
-os.makedirs("clean_data", exist_ok=True)
-os.makedirs("json_data",  exist_ok=True)
+os.makedirs("data", exist_ok=True)
 
 # ── EXACT FILE PATHS matching your VS Code explorer ──────────
 RAW_FILES = {
-    "sales"      : "Fashion_Retail_Sales.csv",
-    "apparel"    : "Luxury_Products_Apparel_Data.csv",
-    "netaporter" : "net-a-porter.csv",
-    "mrporter"   : "mr-porter.csv",
+    "sales"      : "raw_data/Fashion_Retail_Sales.csv",
+    "apparel"    : "raw_data/Luxury_Products_Apparel_Data.csv",
+    "netaporter" : "raw_data/net-a-porter.csv",
+    "mrporter"   : "raw_data/mr-porter.csv",
 }
 
 GBP_TO_USD = 1.244
-
+ 
 BRANDS = [
     "Gucci", "Louis Vuitton", "Prada",
     "Chanel", "Burberry", "Balenciaga",
@@ -88,8 +87,8 @@ def interest_label(score):
 
 def save(df, name):
     """Save as both CSV and JSON."""
-    df.to_csv(f"clean_data/{name}.csv", index=False)
-    df.to_json(f"json_data/{name}.json", orient="records", indent=2, force_ascii=False)
+    df.to_csv(f"data/{name}.csv", index=False)
+    df.to_json(f"data/{name}.json", orient="records", indent=2, force_ascii=False)
     print(f"   ✓ Saved {name}  ({len(df):,} rows, {df.shape[1]} cols)")
 
 
@@ -536,11 +535,11 @@ def build_kpi_summary(df_sales, df_apparel, df_netaporter):
         kpis["apparel_categories"] = int(df_apparel["category"].nunique())
 
     import json
-    os.makedirs("json_data", exist_ok=True)
-    with open("json_data/clean_kpis.json", "w") as f:
+    os.makedirs("data", exist_ok=True)
+    with open("data/clean_kpis.json", "w") as f:
         json.dump(kpis, f, indent=2)
 
-    print(f"   ✓ Saved json_data/clean_kpis.json")
+    print(f"   ✓ Saved data/clean_kpis.json")
     print(f"\n   KPI Values:")
     for k, v in kpis.items():
         print(f"     {k}: {v:,}")
@@ -597,7 +596,7 @@ if __name__ == "__main__":
     print("  DONE — files saved to:")
     print("="*55)
     print("""
-  clean_data/
+  data/
   ├── clean_sales.csv
   ├── clean_sales_by_payment.csv
   ├── clean_sales_by_category.csv
@@ -609,7 +608,7 @@ if __name__ == "__main__":
   ├── clean_netaporter_tiers.csv
   └── clean_trends.csv
 
-  json_data/                         ← load these in your web app
+  data/                         ← load these in your web app
   ├── clean_sales.json
   ├── clean_sales_by_payment.json
   ├── clean_sales_by_category.json
