@@ -1,198 +1,286 @@
-# 💎 Luxury Pulse — Fashion Intelligence Platform
+================================================================
+FA 550 — DATA VISUALIZATION | CAPSTONE PROJECT SUBMISSION
+Stevens Institute of Technology | Spring 2026
+================================================================
 
-**An interactive data visualization tool for exploring global fashion and luxury retail performance.**
+PROJECT TITLE:    Luxury Pulse — Fashion Intelligence Platform
+STUDENT NAME:     Roshni Patel
+STUDENT ID:       20036005
+TRACK:            Track 3 — Interactive Visualization Tool
+SUBMISSION DATE:  May 2026
 
-🔗 **Live Demo:** https://roshni0802.github.io/luxury-pulse
+================================================================
+PROJECT OVERVIEW
+================================================================
 
----
+Luxury Pulse is a fully coded, browser-based interactive data
+visualization tool that consolidates global fashion and luxury
+retail performance data into a single, elegant four-page platform.
 
-## Overview
+The tool analyzes sales transactions, luxury product pricing,
+brand market positioning, and consumer search interest across
+the global fashion industry. It was built entirely from scratch
+using HTML, CSS, and JavaScript — no BI tools or frameworks —
+with a custom Python data pipeline handling all data acquisition,
+cleaning, and transformation.
 
-Luxury Pulse is a browser-based interactive visualization tool built for
-FA 550 Data Visualization (Stevens Institute of Technology, Spring 2026).
-It consolidates sales performance, product pricing, brand positioning,
-and market awareness data from the global fashion and luxury retail
-industry into a single, elegant four-page tool.
+The project covers four analytical pages:
+  - Sales Overview:      Revenue trends, category performance,
+                         payment analysis, customer sentiment
+  - Product Explorer:    Price tier analysis, brand pricing,
+                         platform comparison
+  - Brand Intelligence:  Brand portfolio mapping, price
+                         positioning, competitive analysis
+  - Brand Pulse:         Google Trends search interest,
+                         seasonal heatmap, brand awareness
 
-The project was built entirely from scratch using HTML, CSS, and
-JavaScript — no frameworks, no BI tools. All data was acquired,
-cleaned, and transformed using a custom Python pipeline before being
-loaded into the browser as pre-processed JSON files.
+Main Technologies: HTML5, CSS3, JavaScript, Plotly.js,
+                   Python, pandas, pytrends, GitHub Pages
 
----
+================================================================
+PROJECT ACCESS
+================================================================
 
-## Pages & Features
+LIVE DEPLOYED LINK (Preferred):
+  https://roshni0802.github.io/luxury-pulse
 
-### 1. Sales Overview
-- Monthly revenue trend (line chart with area fill)
-- Payment method distribution (donut chart)
-- Top 12 categories by revenue (horizontal bar)
-- Review score distribution (histogram)
-- Revenue by top 5 categories over time (multi-line)
-- **Filters:** Year (2022 / 2023 / All), Payment type
-- **KPIs:** Total revenue, transactions, avg order value,
-  avg review score, category count
+  → Open in any browser (Chrome or Edge recommended)
+  → No login, no installation, no software required
+  → All four pages and filters are fully functional
 
-### 2. Product Explorer
-- Price tier distribution — Entry / Mid / High / Ultra Luxury (donut)
-- Average price by category (horizontal bar)
-- Top 25 brands — avg price vs product count (bubble chart)
-- Apparel category breakdown (pie chart)
-- Stock availability by platform (bar chart)
-- **Filters:** Price tier, Platform (Net-a-Porter / Mr Porter)
-- **KPIs:** Products listed, unique brands, avg price, max price, platforms
+GITHUB REPOSITORY:
+  https://github.com/Roshni0802/luxury-pulse
 
-### 3. Brand Intelligence
-- Brand portfolio map — size = products, color = avg price (treemap)
-- Top brands by average price (horizontal bar)
-- Top brands by product count (horizontal bar)
-- Price range min / avg / max by brand (grouped bar)
-- **Filter:** Top N brands (15 / 25 / 40)
-- **KPIs:** Brands analysed, highest avg price, top priced brand,
-  largest portfolio, portfolio size, market avg price
+LOCAL SETUP (if live link is unavailable):
+  Full step-by-step instructions are in the Quick Start
+  section below and in the project README.md file.
 
-### 4. Brand Pulse
-- Search interest over time — all brands (multi-line with unified tooltip)
-- Monthly search interest heatmap — seasonality (heatmap)
-- **Filter:** Year (2019–2024 / All)
-- **KPIs:** Brands tracked, data points, avg interest,
-  peak brand, peak score, trending up count
+================================================================
+SUBMISSION CONTENTS
+================================================================
 
----
+This submission package contains the following deliverables:
 
-## Data Sources
+  1. README.txt
+     This file — main navigation guide for graders
 
-| Dataset | Source | Records | Usage |
-|---|---|---|---|
-| Fashion Retail Sales | Kaggle (atharvasoundankar) | 2,750 | Pages 1 KPIs + charts |
-| Net-a-Porter Products | Kaggle (justinpakzad) | ~22,000 | Pages 2 + 3 |
-| Mr Porter Products | Kaggle (justinpakzad) | ~22,000 | Pages 2 + 3 |
-| Luxury Apparel Data | Kaggle (chitwanmanchanda) | ~2,000 | Page 2 category breakdown |
-| Google Trends | pytrends Python library | ~576 | Page 4 brand awareness |
+  2. Project_Documentation.pdf
+     Complete 8–12 page project report covering:
+     - Executive Summary
+     - Goals & Context
+     - Data Preparation
+     - Design Decisions
+     - Technical Implementation
+     - Key Findings & Insights
+     - Challenges & Solutions
+     - AI-Assisted Development
+     - User Testing & Feedback
+     - Reflection & Future Work
 
-**Data notes:**
-- Fashion Retail Sales dates are in DD-MM-YYYY format — fixed with `dayfirst=True`
-- Net-a-Porter prices are in GBP — converted to USD using 2023 avg rate (1 GBP = $1.244)
-- Google Trends scores are relative (0–100 per query), not absolute search volumes
-- All data was pre-aggregated in Python to summary JSON files for fast browser loading
+  3. Presentation_Video.mp4
+     5–7 minute demo walkthrough of the live tool
+     covering all four pages, filters, and key insights
 
----
+  4. data_README.txt
+     Detailed documentation of all 12 cleaned datasets —
+     sources, variables, cleaning steps, row counts
 
-## Tech Stack
+  5. Project Files (luxury-pulse/)
+     index.html        Main application entry point
+     app.js            All chart logic and data loading
+     style.css         All visual styling
+     clean_pipeline.py Python data cleaning pipeline
 
-| Layer | Technology |
-|---|---|
-| Frontend | HTML5, CSS3, Vanilla JavaScript |
-| Charts | Plotly.js 2.27.0 (CDN) |
-| Fonts | Cormorant Garamond + DM Sans (Google Fonts CDN) |
-| Data pipeline | Python 3.13, pandas, pytrends |
-| Deployment | GitHub Pages |
+  6. Data Folder (data/)
+     12 pre-processed JSON files used by the web app:
+     clean_sales.json, clean_netaporter.json,
+     clean_trends.json, and 9 additional summary files
 
-No frameworks, no npm, no build tools required.
+  7. AI Conversation Logs (ai_logs/)
+     Screenshots and exports of Claude AI and ChatGPT
+     conversations used during development
 
----
+  8. User Guide
+     Included within Project_Documentation.pdf and
+     also available in README.md on GitHub
 
-## How to Run Locally
+================================================================
+FOLDER STRUCTURE
+================================================================
 
-### Requirements
-- VS Code
-- Live Server extension (by Ritwick Dey)
-- Internet connection (Plotly.js and fonts load from CDN)
+RoshniPatel_Capstone/
+│
+├── README.txt                      ← You are here
+├── Final Report.pdf                ← Full project report
+├── Video.mp4          ← Demo walkthrough video
+│
+| index.html                 ← Main HTML file
+│ app.js                     ← JavaScript logic
+│ style.css                  ← CSS styling
+│ clean_pipeline.py          ← Python data pipeline
+│
+├── data/                          ← Cleaned JSON datasets
+│   ├── clean_sales.json
+│   ├── clean_sales_by_payment.json
+│   ├── clean_sales_by_category.json
+│   ├── clean_netaporter.json
+│   ├── clean_netaporter_brands.json
+│   ├── clean_netaporter_tiers.json
+│   ├── clean_apparel.json
+│   ├── clean_apparel_by_category.json
+│   ├── clean_apparel_by_brand.json
+│   ├── clean_trends.json
+│   ├── clean_trends_yearly.json
+│   └── clean_kpis.json
+│
+└── ai_logs/                       ← AI conversation exports
+    ├── claude_conversation_log.pdf
 
-### Steps
-1. Clone the repository:
-```bash
-   git clone https://github.com/Roshni0802/luxury-pulse.git
-```
-2. Open the folder in VS Code:
-3. Right-click `index.html` in the Explorer panel
-4. Click **Open with Live Server**
-5. Browser opens at `http://127.0.0.1:5500`
+================================================================
+QUICK START INSTRUCTIONS
+================================================================
 
-> ⚠️ Do NOT open index.html by double-clicking it.
-> The browser blocks fetch() requests on the file:// protocol.
-> Always use Live Server.
+OPTION 1 — USE THE LIVE LINK (Recommended, takes 5 seconds)
 
----
+  1. Open any web browser (Chrome or Edge preferred)
+  2. Go to: https://roshni0802.github.io/luxury-pulse
+  3. Wait 2–3 seconds for data to load
+  4. Status bar top-right will show "X records loaded"
+  5. All four pages and filters are ready to use
 
-## Project Structure
-luxury-pulse/
-├── index.html              Main application file
-├── app.js                  All chart logic and data loading
-├── style.css               All styling
-├── README.md               This file
-├── clean_pipeline.py       Python data cleaning pipeline
-└── json_data/              Pre-processed data files
-├── clean_sales.json              2,750 transaction records
-├── clean_sales_by_payment.json   Payment type summary
-├── clean_sales_by_category.json  Category summary
-├── clean_netaporter.json         Product catalog summary
-├── clean_netaporter_brands.json  Brand-level aggregates
-├── clean_netaporter_tiers.json   Price tier summary
-├── clean_apparel.json            Apparel category counts
-├── clean_apparel_by_category.json Category breakdown
-├── clean_apparel_by_brand.json   Brand breakdown
-├── clean_trends.json             Google Trends weekly data
-├── clean_trends_yearly.json      Yearly brand averages
-└── clean_kpis.json               Top-level KPI summary
+OPTION 2 — RUN LOCALLY (if live link is unavailable)
 
----
+  Requirements:
+    - VS Code (free: code.visualstudio.com)
+    - Live Server extension by Ritwick Dey (free, in VS Code)
+    - Internet connection (Plotly.js loads from CDN)
 
-## Rebuilding the Data
+  Steps:
+    1. Download or clone the repository:
+       git clone https://github.com/Roshni0802/luxury-pulse.git
 
-To regenerate all JSON files from raw CSVs:
+    2. Open VS Code
+       File → Open Folder → select the luxury-pulse folder
 
-```bash
-pip install pandas pytrends
-python clean_pipeline.py
-```
+    3. In the VS Code Explorer panel, right-click index.html
+       Click "Open with Live Server"
 
-Raw CSV files required (not included in repo due to size):
-- `Fashion_Retail_Sales.csv`
-- `net-a-porter.csv`
-- `mr-porter.csv`
-- `Luxury_Products_Apparel_Data.csv`
+    4. Browser opens automatically at http://127.0.0.1:5500
 
-Download from Kaggle links in the Data Sources table above.
+  IMPORTANT: Do NOT open index.html by double-clicking it
+  in File Explorer. The browser blocks data loading on the
+  file:// protocol. Always use Live Server.
 
----
+  Estimated setup time: under 5 minutes
 
-## Key Insights
+OPTION 3 — REBUILD DATA FROM SCRATCH (optional)
 
-1. **Revenue is highly seasonal** — clear peaks in specific months
-   visible in the monthly trend chart
-2. **Mid Luxury dominates** — 43% of products fall in the
-   $200–$800 tier, making it the largest segment by volume
-3. **COVID impact is visible** — every brand dips simultaneously
-   in early 2020 on the Brand Pulse line chart, with different
-   recovery trajectories revealing brand resilience differences
-4. **Watches command premium pricing** — the highest average
-   price category by a significant margin on Product Explorer
-5. **Portfolio size ≠ price** — the brands with the most products
-   (Saint Laurent, Gucci) are not the most expensive ones
-   (Vacheron Constantin, Bovet) as shown in the treemap
+  Requirements: Python 3.x, pandas, pytrends
+    pip install pandas pytrends
 
----
+  Steps:
+    1. Place raw CSV files in the raw_data/ folder:
+       - Fashion_Retail_Sales.csv
+       - net-a-porter.csv
+       - mr-porter.csv
+       - Luxury_Products_Apparel_Data.csv
+    2. Run: python clean_pipeline.py
+    3. All 12 JSON files regenerate in data/ folder
 
-## Author
+================================================================
+TECHNOLOGIES USED
+================================================================
 
-**Roshni Patel**
-Stevens Institute of Technology
-FA 550 — Data Visualization, Spring 2026
-Student ID: 20036005
+FRONTEND
+  Language:     HTML5, CSS3, Vanilla JavaScript (no frameworks)
+  Charts:       Plotly.js 2.27.0 (loaded from Cloudflare CDN)
+  Fonts:        Cormorant Garamond + DM Sans (Google Fonts CDN)
+  Design:       Custom CSS variables, CSS Grid, Flexbox
 
----
+DATA PIPELINE
+  Language:     Python 3.13
+  Libraries:    pandas, pytrends, os, time, json, warnings
+  Environment:  VS Code + PowerShell terminal
 
-## Track
+DATA SOURCES
+  Kaggle:       Fashion Retail Sales (atharvasoundankar)
+  Kaggle:       Net-a-Porter / Mr Porter (justinpakzad)
+  Kaggle:       Luxury Apparel Data (chitwanmanchanda)
+  API:          Google Trends via pytrends Python library
 
-Track 3 — Interactive Visualization Tool
+DEPLOYMENT
+  Platform:     GitHub Pages (free static hosting)
+  Repository:   github.com/Roshni0802/luxury-pulse
 
-*Originally proposed as Track 1 (Executive Dashboard / Tableau),
-switched to Track 3 to build a fully coded, deployable portfolio piece.*
+AI TOOLS USED
+  Claude AI:    Primary tool — code generation, debugging,
+                chart design, documentation writing
+  ChatGPT:      Secondary tool — documentation structure,
+                visualization concept explanations
 
----
+================================================================
+NOTES FOR GRADERS
+================================================================
 
-## License
+1. LIVE LINK IS THE EASIEST WAY TO GRADE
+   The deployed GitHub Pages link requires no setup. Open it
+   in Chrome or Edge and everything works immediately.
 
-This project was built for academic purposes.
-Data sourced from publicly available Kaggle datasets and Google Trends.
+2. DATA LOADING TIME
+   The tool loads Page 1 (Sales Overview) within 2–3 seconds.
+   Product Explorer and Brand Intelligence data loads in the
+   background. If charts appear blank, wait 5 seconds and
+   click the page tab again.
+
+3. TRACK CHANGE FROM PROPOSAL
+   My original proposal was Track 1 (Executive Dashboard /
+   Tableau). I switched to Track 3 (Interactive Tool / coded
+   JavaScript) during Week 11 to build something deployable
+   and portfolio-ready. This change is documented in full in
+   Section 3 of the Project Documentation.
+
+4. SIMULATED DATA DISCLOSURE
+   The Fashion Retail Sales dataset is a realistic simulation,
+   not live commercial transaction data. This is disclosed
+   in the tool's data source notes and documentation.
+
+5. GOOGLE TRENDS SCORES
+   Brand Pulse search interest scores are relative (0–100
+   per query period), not absolute search volumes. Cross-brand
+   comparisons are directional only. This limitation is
+   documented in the data_README.txt and in the tool tooltips.
+
+6. BROWSER RECOMMENDATION
+   Best viewed in Chrome or Edge at 1280px width or wider.
+   The tool is responsive and works on smaller screens but
+   some chart labels may be compressed.
+
+7. ALL SOURCE CODE IS ON GITHUB
+   Every line of code is visible at:
+   https://github.com/Roshni0802/luxury-pulse
+   The repository includes index.html, app.js, style.css,
+   clean_pipeline.py, README.md, and the data/ folder.
+
+8. NO DEPENDENCIES TO INSTALL
+   The web tool has zero npm or pip dependencies for the
+   grader. Plotly.js and Google Fonts load from CDN links
+   embedded in index.html. An internet connection is the
+   only requirement.
+
+================================================================
+CONTACT INFORMATION
+================================================================
+
+Student:        Roshni Patel
+Student ID:     20036005
+Program:        Computer Science 
+Course:         FA 550 — Data Visualization
+Semester:       Spring 2026
+Institution:    Stevens Institute of Technology
+
+GitHub:         https://github.com/Roshni0802
+Project URL:    https://roshni0802.github.io/luxury-pulse
+
+================================================================
+Thank you for reviewing Luxury Pulse.
+================================================================
