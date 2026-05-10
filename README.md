@@ -111,8 +111,8 @@ FOLDER STRUCTURE
 RoshniPatel_Capstone/
 │
 ├── README.txt                      ← You are here
-├── Final Report.pdf                ← Full project report
-├── Video.mp4          ← Demo walkthrough video
+├── Project_Documentation.pdf                ← Full project report
+├── Presentation_Video.mp4          ← Demo walkthrough video
 │
 | index.html                 ← Main HTML file
 │ app.js                     ← JavaScript logic
@@ -209,7 +209,7 @@ DATA SOURCES
   API:          Google Trends via pytrends Python library
 
 DEPLOYMENT
-  Platform:     GitHub Pages (free static hosting)
+  Platform:     GitHub Pages 
   Repository:   github.com/Roshni0802/luxury-pulse
 
 AI TOOLS USED
